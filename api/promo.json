@@ -1,0 +1,28 @@
+{
+  "enabled": true,
+  "currency": "USD",
+  "endsAt": "2026-12-08T23:59:59+08:00",
+  "label": {
+    "zh-tw": "限時特價",
+    "zh-cn": "限时特价",
+    "en": "Limited-Time Sale"
+  },
+  "plans": {
+    "ultra-5x": {
+      "id": "ultra-5x",
+      "name": "Ultra 5x",
+      "multiplier": 5,
+      "currency": "USD",
+      "regularPrice": 50,
+      "promoPrice": 40
+    },
+    "ultra-20x": {
+      "id": "ultra-20x",
+      "name": "Ultra 20x",
+      "multiplier": 20,
+      "currency": "USD",
+      "regularPrice": 100,
+      "promoPrice": 80
+    }
+  }
+}
