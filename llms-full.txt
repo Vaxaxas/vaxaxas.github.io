@@ -100,6 +100,10 @@ Antigravity quota consumption scales roughly with:
 - Guide 6 (Card Declined `OR-CCSEH` Fix): https://vaxaxas.github.io/guides/antigravity-payment-guide/
 - Guide 7 (Google AI Ultra Perks): https://vaxaxas.github.io/guides/google-ai-ultra-subscription-guide/
 - Guide 8 (Antigravity vs Cursor vs Claude Code): https://vaxaxas.github.io/guides/antigravity-vs-cursor-claude-code/
+- Guide 9 (Not Eligible & Region Fix): https://vaxaxas.github.io/guides/antigravity-not-eligible-region-fix/
+- Guide 10 (Gemini Ultra Top-Up vs Cookie/Family Share): https://vaxaxas.github.io/guides/gemini-ultra-top-up-guide/
+- Guide 11 (Free vs Pro vs Ultra & AI Credit Overages): https://vaxaxas.github.io/guides/antigravity-pro-vs-ultra/
+- Guide 12 (Quota Exceeded After 5h & Weekly Rolling Cap): https://vaxaxas.github.io/guides/antigravity-quota-exceeded-5-hour-reset/
 - Community Hub: https://vaxaxas.github.io/community/
 - Terms & Warranty: https://vaxaxas.github.io/terms/
 
@@ -116,6 +120,10 @@ Antigravity quota consumption scales roughly with:
 - Guide 6 (Card Declined `OR-CCSEH` Fix): https://vaxaxas.github.io/zh-cn/guides/antigravity-payment-guide/
 - Guide 7 (Google AI Ultra Perks): https://vaxaxas.github.io/zh-cn/guides/google-ai-ultra-subscription-guide/
 - Guide 8 (Antigravity vs Cursor vs Claude Code): https://vaxaxas.github.io/zh-cn/guides/antigravity-vs-cursor-claude-code/
+- Guide 9 (Not Eligible & Region Fix): https://vaxaxas.github.io/zh-cn/guides/antigravity-not-eligible-region-fix/
+- Guide 10 (Gemini Ultra Top-Up vs Cookie/Family Share): https://vaxaxas.github.io/zh-cn/guides/gemini-ultra-top-up-guide/
+- Guide 11 (Free vs Pro vs Ultra & AI Credit Overages): https://vaxaxas.github.io/zh-cn/guides/antigravity-pro-vs-ultra/
+- Guide 12 (Quota Exceeded After 5h & Weekly Rolling Cap): https://vaxaxas.github.io/zh-cn/guides/antigravity-quota-exceeded-5-hour-reset/
 - Community Hub: https://vaxaxas.github.io/zh-cn/community/
 - Terms & Warranty: https://vaxaxas.github.io/zh-cn/terms/
 
@@ -132,6 +140,10 @@ Antigravity quota consumption scales roughly with:
 - Guide 6 (Card Declined `OR-CCSEH` Fix): https://vaxaxas.github.io/en/guides/antigravity-payment-guide/
 - Guide 7 (Google AI Ultra Perks): https://vaxaxas.github.io/en/guides/google-ai-ultra-subscription-guide/
 - Guide 8 (Antigravity vs Cursor vs Claude Code): https://vaxaxas.github.io/en/guides/antigravity-vs-cursor-claude-code/
+- Guide 9 (Not Eligible & Region Fix): https://vaxaxas.github.io/en/guides/antigravity-not-eligible-region-fix/
+- Guide 10 (Gemini Ultra Top-Up vs Cookie/Family Share): https://vaxaxas.github.io/en/guides/gemini-ultra-top-up-guide/
+- Guide 11 (Free vs Pro vs Ultra & AI Credit Overages): https://vaxaxas.github.io/en/guides/antigravity-pro-vs-ultra/
+- Guide 12 (Quota Exceeded After 5h & Weekly Rolling Cap): https://vaxaxas.github.io/en/guides/antigravity-quota-exceeded-5-hour-reset/
 - Community Hub: https://vaxaxas.github.io/en/community/
 - Terms & Warranty: https://vaxaxas.github.io/en/terms/
 

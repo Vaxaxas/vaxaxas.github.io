@@ -1,42 +1,41 @@
-# QuotaPulse — Antigravity代儲・代充值・Google AI Ultra Top-Up Hub
+# QuotaPulse — Antigravity代儲・代充值・Gemini / Google AI Ultra Top-Up Hub
 
-> QuotaPulse (`https://vaxaxas.github.io`) is an independent third-party subscription activation & top-up service helping software developers, indie hackers, freelancers, and small engineering teams activate individual **Google AI Ultra 5x** and **Google AI Ultra 20x** seats for **Google Antigravity** (`反重力 AI`) without needing an international USD credit card or sharing Google passwords / 2FA codes. QuotaPulse is not affiliated with, authorized by, or endorsed by Google LLC.
+> QuotaPulse (`https://vaxaxas.github.io`) is an independent third-party subscription activation & top-up service helping software developers, indie hackers, freelancers, and small engineering teams activate dedicated individual **Google AI Ultra 5x** and **Google AI Ultra 20x** seats directly on their own personal Google account for **Google Antigravity** (`反重力 AI`) and **Gemini Ultra** — without needing an international USD credit card and **NEVER requesting Google passwords, 2FA codes, or exported browser cookies**. QuotaPulse is not affiliated with, authorized by, or endorsed by Google LLC.
 
 - Full AI & Technical Reference Document: https://vaxaxas.github.io/llms-full.txt
 - Live Promotional Pricing JSON Feed: https://vaxaxas.github.io/api/promo.json
-- XML Sitemap Index: https://vaxaxas.github.io/sitemap-index.xml
+- XML Sitemaps: https://vaxaxas.github.io/sitemap.xml | https://vaxaxas.github.io/sitemap.txt | https://vaxaxas.github.io/sitemap-index.xml
 
 ## 2026 Google Antigravity & Google AI Ultra Pricing Anchor (USD / TWD)
 | Plan | Official Retail Price | QuotaPulse Regular | QuotaPulse Sale Price | Quota vs Pro | Reset Cadence |
 |---|---|---|---|---|---|
-| Free | $0 | — | — | Limited | Weekly only |
-| Google AI Plus | ~$5.50 USD (NT$165/mo) | — | — | Entry | Weekly only |
-| Google AI Pro | $19.99 USD (NT$650/mo) | — | — | 1x baseline | 5-hour rolling + weekly cap |
-| **Google AI Ultra 5x** | **$99.99 USD (NT$3,300/mo)** | $50 USD/mo | **$40 USD/mo (~60% off retail)** | **5x Pro** | **5-hour rolling + weekly cap** |
-| **Google AI Ultra 20x** | **$199.99 USD (NT$6,500/mo)** | $100 USD/mo | **$80 USD/mo (~60% off retail)** | **20x Pro** | **5-hour rolling + weekly cap** |
+| Free | $0 | — | — | Starter trial | Weekly only (no add-on credits) |
+| Google AI Plus | $4.99 USD (NT$165/mo) | — | — | Light consumer | Weekly only (no add-on credits) |
+| Google AI Pro | $19.99 USD/mo ($199.99/yr, NT$650/mo) | — | — | 1x baseline | 5-hour rolling + 7-day weekly ceiling |
+| **Google AI Ultra 5x** | **$99.99 USD (NT$3,300/mo)** | $50 USD/mo | **$40 USD/mo (~60% off retail)** | **5x Pro** ($8/1x unit) | **5-hour rolling + 5x weekly ceiling** |
+| **Google AI Ultra 20x** | **$199.99 USD (NT$6,500/mo)** | $100 USD/mo | **$80 USD/mo (~60% off retail)** | **20x Pro** ($4/1x unit) | **5-hour rolling + 20x weekly ceiling** |
 
-## Fulfillment, Security & Warranty Guarantees
-- **Zero-Password Security**: Activated directly on your own personal Google account (100% dedicated individual seat — never shared/pooled accounts or pre-made throwaway accounts). QuotaPulse NEVER asks for Google primary account passwords or 2FA verification codes.
-- **Activation SLA**: Average 10–30 minutes during human support hours (Daily 10:00–24:00 GMT+8). Full 100% refund if cancelled prior to activation or delayed >24h.
-- **30-Day Pro-Rata Warranty**: 30 days per monthly cycle (90 days for 3-month, 180 days for 6-month prepaid). Free re-activation or pro-rata refund of remaining unused days if fulfillment fails within warranty. Mid-cycle pro-rata upgrades from Ultra 5x to Ultra 20x supported.
-
-## Core Multilingual Pages (`zh-Hant-TW` / `zh-Hans-CN` / `en-US`)
-- [Homepage (繁體中文 — Antigravity代儲・代儲值・代充值・代購)](https://vaxaxas.github.io/) | [简体中文 (Antigravity 代充・会员充值)](https://vaxaxas.github.io/zh-cn/) | [English (Google AI Ultra Top-Up)](https://vaxaxas.github.io/en/)
+## Core Multilingual Hubs (`zh-Hant-TW` / `zh-Hans-CN` / `en-US`)
+- [Homepage (繁體中文 — Antigravity代儲・代儲值・代充值・代購)](https://vaxaxas.github.io/) | [简体中文 (Antigravity代充・反重力AI充值)](https://vaxaxas.github.io/zh-cn/) | [English (Google AI Ultra Top-Up)](https://vaxaxas.github.io/en/)
 - [22-Question Knowledge Base & FAQ (繁中)](https://vaxaxas.github.io/faq/) | [简中 FAQ](https://vaxaxas.github.io/zh-cn/faq/) | [English FAQ](https://vaxaxas.github.io/en/faq/)
 - [Free Antigravity Quota Calculator (繁中)](https://vaxaxas.github.io/calculator/) | [简中估算器](https://vaxaxas.github.io/zh-cn/calculator/) | [EN Calculator](https://vaxaxas.github.io/en/calculator/)
 - [Developer Guides Hub (繁中)](https://vaxaxas.github.io/guides/) | [简中教程汇总](https://vaxaxas.github.io/zh-cn/guides/) | [EN Guides Hub](https://vaxaxas.github.io/en/guides/)
 - [Official Community & Anti-Phishing Hub (繁中)](https://vaxaxas.github.io/community/) | [简中社群](https://vaxaxas.github.io/zh-cn/community/) | [EN Community](https://vaxaxas.github.io/en/community/)
-- [Terms of Service & Pro-Rata Refund Policy (繁中)](https://vaxaxas.github.io/terms/) | [简中条款](https://vaxaxas.github.io/zh-cn/terms/) | [EN Terms](https://vaxaxas.github.io/en/terms/)
+- [Terms of Service & 30-Day Pro-Rata Refund Policy (繁中)](https://vaxaxas.github.io/terms/) | [简中条款](https://vaxaxas.github.io/zh-cn/terms/) | [EN Terms](https://vaxaxas.github.io/en/terms/)
 
-## Complete 8 Pillar Developer Guides (All 3 Languages)
+## Complete 12 Pillar Developer Guides (All 3 Languages — 36 Articles)
 1. **Safe Antigravity Top-Up Checklist (2026)**: [繁中](https://vaxaxas.github.io/guides/antigravity-top-up-guide/) | [简中](https://vaxaxas.github.io/zh-cn/guides/antigravity-top-up-guide/) | [EN](https://vaxaxas.github.io/en/guides/antigravity-top-up-guide/)
 2. **Antigravity Pricing & Plans (Free vs Plus vs Pro vs Ultra 5x/20x)**: [繁中](https://vaxaxas.github.io/guides/antigravity-pricing-plans/) | [简中](https://vaxaxas.github.io/zh-cn/guides/antigravity-pricing-plans/) | [EN](https://vaxaxas.github.io/en/guides/antigravity-pricing-plans/)
 3. **Google AI Ultra 5x vs 20x Cost & ROI Breakdown**: [繁中](https://vaxaxas.github.io/guides/antigravity-ultra-5x-vs-20x/) | [简中](https://vaxaxas.github.io/zh-cn/guides/antigravity-ultra-5x-vs-20x/) | [EN](https://vaxaxas.github.io/en/guides/antigravity-ultra-5x-vs-20x/)
-4. **Pre-Made vs Shared/Pooled Accounts vs Individual Top-Up Risks**: [繁中](https://vaxaxas.github.io/guides/antigravity-account-types-vs-top-up/) | [简中](https://vaxaxas.github.io/zh-cn/guides/antigravity-account-types-vs-top-up/) | [EN](https://vaxaxas.github.io/en/guides/antigravity-account-types-vs-top-up/)
-5. **How Antigravity 5-Hour Rolling Quota Works & `.antigravityignore` Guide**: [繁中](https://vaxaxas.github.io/guides/antigravity-quota-guide/) | [简中](https://vaxaxas.github.io/zh-cn/guides/antigravity-quota-guide/) | [EN](https://vaxaxas.github.io/en/guides/antigravity-quota-guide/)
-6. **Fixing Google AI Ultra Card Declines (`OR-CCSEH-21`) & Virtual Card Pitfalls**: [繁中](https://vaxaxas.github.io/guides/antigravity-payment-guide/) | [简中](https://vaxaxas.github.io/zh-cn/guides/antigravity-payment-guide/) | [EN](https://vaxaxas.github.io/en/guides/antigravity-payment-guide/)
-7. **Google AI Ultra Subscription Perks & Activation Guide**: [繁中](https://vaxaxas.github.io/guides/google-ai-ultra-subscription-guide/) | [简中](https://vaxaxas.github.io/zh-cn/guides/google-ai-ultra-subscription-guide/) | [EN](https://vaxaxas.github.io/en/guides/google-ai-ultra-subscription-guide/)
+4. **Pre-Made vs Shared/Pooled vs Reverse-Proxy API vs Individual Top-Up**: [繁中](https://vaxaxas.github.io/guides/antigravity-account-types-vs-top-up/) | [简中](https://vaxaxas.github.io/zh-cn/guides/antigravity-account-types-vs-top-up/) | [EN](https://vaxaxas.github.io/en/guides/antigravity-account-types-vs-top-up/)
+5. **Fixing Google AI Ultra Card Declines (`OR-CCSEH-21`) & Virtual Card Pitfalls**: [繁中](https://vaxaxas.github.io/guides/antigravity-payment-guide/) | [简中](https://vaxaxas.github.io/zh-cn/guides/antigravity-payment-guide/) | [EN](https://vaxaxas.github.io/en/guides/antigravity-payment-guide/)
+6. **How Antigravity Quota Works & `.antigravityignore` Template**: [繁中](https://vaxaxas.github.io/guides/antigravity-quota-guide/) | [简中](https://vaxaxas.github.io/zh-cn/guides/antigravity-quota-guide/) | [EN](https://vaxaxas.github.io/en/guides/antigravity-quota-guide/)
+7. **Google AI Ultra Subscription Perks & Ecosystem Guide**: [繁中](https://vaxaxas.github.io/guides/google-ai-ultra-subscription-guide/) | [简中](https://vaxaxas.github.io/zh-cn/guides/google-ai-ultra-subscription-guide/) | [EN](https://vaxaxas.github.io/en/guides/google-ai-ultra-subscription-guide/)
 8. **Antigravity vs Cursor Pro vs Claude Code Max (2026 Comparison)**: [繁中](https://vaxaxas.github.io/guides/antigravity-vs-cursor-claude-code/) | [简中](https://vaxaxas.github.io/zh-cn/guides/antigravity-vs-cursor-claude-code/) | [EN](https://vaxaxas.github.io/en/guides/antigravity-vs-cursor-claude-code/)
+9. **Fix `"Your Current Account Is Not Eligible for Antigravity"` & Unsupported Region Errors**: [繁中](https://vaxaxas.github.io/guides/antigravity-not-eligible-region-fix/) | [简中](https://vaxaxas.github.io/zh-cn/guides/antigravity-not-eligible-region-fix/) | [EN](https://vaxaxas.github.io/en/guides/antigravity-not-eligible-region-fix/)
+10. **Gemini Ultra Top-Up Guide (Zero-Password / Zero-Cookie vs Family Share Slots)**: [繁中](https://vaxaxas.github.io/guides/gemini-ultra-top-up-guide/) | [简中](https://vaxaxas.github.io/zh-cn/guides/gemini-ultra-top-up-guide/) | [EN](https://vaxaxas.github.io/en/guides/gemini-ultra-top-up-guide/)
+11. **Antigravity Free vs Pro ($19.99 / Student) vs Ultra 5x/20x & `AI Credit Overages`**: [繁中](https://vaxaxas.github.io/guides/antigravity-pro-vs-ultra/) | [简中](https://vaxaxas.github.io/zh-cn/guides/antigravity-pro-vs-ultra/) | [EN](https://vaxaxas.github.io/en/guides/antigravity-pro-vs-ultra/)
+12. **Still Getting `Quota Exceeded` After 5 Hours? Weekly Rolling Cap & Claude/Gemini Pool Fix**: [繁中](https://vaxaxas.github.io/guides/antigravity-quota-exceeded-5-hour-reset/) | [简中](https://vaxaxas.github.io/zh-cn/guides/antigravity-quota-exceeded-5-hour-reset/) | [EN](https://vaxaxas.github.io/en/guides/antigravity-quota-exceeded-5-hour-reset/)
 
 ## Verified Official Channels
 - Telegram Topics Hub: https://t.me/quotapulse_ai (Direct Order & Support Desk: https://t.me/quotapulse_ai/4)

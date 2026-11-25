@@ -1,6 +1,6 @@
-# Antigravity代儲・代儲值・代充值・代購｜Google AI Ultra 訂閱方案與開發者知識庫（QuotaPulse）
+# Antigravity代儲・代儲值・代充值・代購｜Google AI Ultra / Gemini Ultra 獨享方案與開發者知識庫（QuotaPulse）
 
-專為軟體工程師、接案開發者與小型團隊打造的 **Antigravity代儲（代儲值／代充值／會員代購／反重力 AI 代充）與 Google AI Ultra 5x / 20x 個人獨享開通服務**。免自備外幣信用卡、**全程絕不索取 Google 主帳號密碼與 2FA 驗證碼**，服務時間內平均 **10–30 分鐘快速開通**，享公開透明的 **30 天按天比例退補保固**。
+專為軟體工程師、接案開發者與小型團隊打造的 **Antigravity代儲（代儲值／代充值／會員代購／反重力 AI 代充）與 Google AI Ultra（Gemini Ultra）5x / 20x 充入個人帳號獨享開通服務**。免自備外幣信用卡、**全程絕不索取 Google 主帳號密碼、2FA 驗證碼或瀏覽器 Cookie**，服務時間內平均 **10–30 分鐘快速開通**，享公開透明的 **30 天按天比例退補保固**。
 
 - 🌐 **官方網站（繁體中文）**：[https://vaxaxas.github.io/](https://vaxaxas.github.io/)
 - 🌐 **官方网站（简体中文）**：[https://vaxaxas.github.io/zh-cn/](https://vaxaxas.github.io/zh-cn/)
@@ -8,11 +8,11 @@
 - ❓ **常見問題知識庫（22 題全解答）**：[繁中 FAQ](https://vaxaxas.github.io/faq/) · [简中 FAQ](https://vaxaxas.github.io/zh-cn/faq/) · [EN FAQ](https://vaxaxas.github.io/en/faq/)
 - 🧮 **免費用量估算器**：[繁中](https://vaxaxas.github.io/calculator/) · [简中](https://vaxaxas.github.io/zh-cn/calculator/) · [EN](https://vaxaxas.github.io/en/calculator/)
 - 💬 **社群與防詐驗證總入口**：[繁中](https://vaxaxas.github.io/community/) · [简中](https://vaxaxas.github.io/zh-cn/community/) · [EN](https://vaxaxas.github.io/en/community/)
-- 🤖 **AI 搜尋索引檔**：[llms.txt](https://vaxaxas.github.io/llms.txt) · [llms-full.txt](https://vaxaxas.github.io/llms-full.txt)
+- 🤖 **AI 與搜尋引擎索引**：[sitemap.xml](https://vaxaxas.github.io/sitemap.xml) · [llms.txt](https://vaxaxas.github.io/llms.txt) · [llms-full.txt](https://vaxaxas.github.io/llms-full.txt)
 
 ---
 
-## 🔥 方案價格與官方定價對比（立省約 60%）
+## 🔥 方案價格與官方定價對比（充到你自己帳號・立省約 60%）
 
 | 方案 | QuotaPulse 限時特價 | 本站原價 | 官方直購定價參考 | 額度與刷新規格 | 適合對象 |
 |---|---|---|---|---|---|
@@ -21,16 +21,20 @@
 
 ---
 
-## 📖 八大主題權威教學指南（繁中 / 简中 / EN）
+## 📖 十二大主題權威教學指南（繁中 / 简中 / EN 共 36 篇）
 
-1. **代儲安全總覽**：[2026 Antigravity代儲與代充值完整安全指南](https://vaxaxas.github.io/guides/antigravity-top-up-guide/) · [简中](https://vaxaxas.github.io/zh-cn/guides/antigravity-top-up-guide/) · [EN](https://vaxaxas.github.io/en/guides/antigravity-top-up-guide/)
-2. **全方案價格解析**：[2026 Antigravity 價格與方案總整理（免費版 / Plus / Pro / Ultra 5x & 20x）](https://vaxaxas.github.io/guides/antigravity-pricing-plans/) · [简中](https://vaxaxas.github.io/zh-cn/guides/antigravity-pricing-plans/) · [EN](https://vaxaxas.github.io/en/guides/antigravity-pricing-plans/)
+1. **代儲安全總覽**：[Antigravity代充值・代充・代購完整指南（充到自己帳號・免密碼）](https://vaxaxas.github.io/guides/antigravity-top-up-guide/) · [简中](https://vaxaxas.github.io/zh-cn/guides/antigravity-top-up-guide/) · [EN](https://vaxaxas.github.io/en/guides/antigravity-top-up-guide/)
+2. **全方案價格解析**：[2026 Antigravity 價格與方案總整理（免費版 / Plus $4.99 / Pro $19.99 / Ultra 5x & 20x）](https://vaxaxas.github.io/guides/antigravity-pricing-plans/) · [简中](https://vaxaxas.github.io/zh-cn/guides/antigravity-pricing-plans/) · [EN](https://vaxaxas.github.io/en/guides/antigravity-pricing-plans/)
 3. **5x vs 20x 成本試算**：[Google AI Ultra 5x vs 20x 怎麼選？單位額度成本與回本對比](https://vaxaxas.github.io/guides/antigravity-ultra-5x-vs-20x/) · [简中](https://vaxaxas.github.io/zh-cn/guides/antigravity-ultra-5x-vs-20x/) · [EN](https://vaxaxas.github.io/en/guides/antigravity-ultra-5x-vs-20x/)
-4. **合租與成品號避坑**：[Antigravity 買斷成品號 vs 合租共享號 vs 個人帳號免密碼代儲風險對比](https://vaxaxas.github.io/guides/antigravity-account-types-vs-top-up/) · [简中](https://vaxaxas.github.io/zh-cn/guides/antigravity-account-types-vs-top-up/) · [EN](https://vaxaxas.github.io/en/guides/antigravity-account-types-vs-top-up/)
-5. **額度與省量技巧**：[Antigravity 額度怎麼算？5 小時刷新機制、`.antigravityignore` 與 7 個省額度技巧](https://vaxaxas.github.io/guides/antigravity-quota-guide/) · [简中](https://vaxaxas.github.io/zh-cn/guides/antigravity-quota-guide/) · [EN](https://vaxaxas.github.io/en/guides/antigravity-quota-guide/)
-6. **刷卡失敗排錯**：[Google AI Ultra 信用卡刷不過（`OR-CCSEH`）與免外幣卡訂閱教學](https://vaxaxas.github.io/guides/antigravity-payment-guide/) · [简中](https://vaxaxas.github.io/zh-cn/guides/antigravity-payment-guide/) · [EN](https://vaxaxas.github.io/en/guides/antigravity-payment-guide/)
+4. **合租、成品號與反代避坑**：[買斷成品號 vs 合租共享號 vs API 反代中轉 vs 個人帳號免密碼代儲風險對比](https://vaxaxas.github.io/guides/antigravity-account-types-vs-top-up/) · [简中](https://vaxaxas.github.io/zh-cn/guides/antigravity-account-types-vs-top-up/) · [EN](https://vaxaxas.github.io/en/guides/antigravity-account-types-vs-top-up/)
+5. **刷卡失敗排錯**：[Google AI Ultra 信用卡刷不過（`OR-CCSEH`）與免外幣卡訂閱教學](https://vaxaxas.github.io/guides/antigravity-payment-guide/) · [简中](https://vaxaxas.github.io/zh-cn/guides/antigravity-payment-guide/) · [EN](https://vaxaxas.github.io/en/guides/antigravity-payment-guide/)
+6. **額度與省量技巧**：[Antigravity 額度怎麼算？5 小時刷新、`.antigravityignore` 與 7 個省額度技巧](https://vaxaxas.github.io/guides/antigravity-quota-guide/) · [简中](https://vaxaxas.github.io/zh-cn/guides/antigravity-quota-guide/) · [EN](https://vaxaxas.github.io/en/guides/antigravity-quota-guide/)
 7. **Ultra 生態權益**：[Google AI Ultra 訂閱權益全解析：Antigravity 額度、Gemini Deep Think 與雲端空間](https://vaxaxas.github.io/guides/google-ai-ultra-subscription-guide/) · [简中](https://vaxaxas.github.io/zh-cn/guides/google-ai-ultra-subscription-guide/) · [EN](https://vaxaxas.github.io/en/guides/google-ai-ultra-subscription-guide/)
 8. **AI IDE 橫向評測**：[2026 Antigravity vs Cursor Pro vs Claude Code Max 深度對比](https://vaxaxas.github.io/guides/antigravity-vs-cursor-claude-code/) · [简中](https://vaxaxas.github.io/zh-cn/guides/antigravity-vs-cursor-claude-code/) · [EN](https://vaxaxas.github.io/en/guides/antigravity-vs-cursor-claude-code/)
+9. **地區不支援與資格排錯**：[Antigravity 地區不支援與 `Your current account is not eligible` 完整解法（Workspace / 改區 / TUN）](https://vaxaxas.github.io/guides/antigravity-not-eligible-region-fix/) · [简中](https://vaxaxas.github.io/zh-cn/guides/antigravity-not-eligible-region-fix/) · [EN](https://vaxaxas.github.io/en/guides/antigravity-not-eligible-region-fix/)
+10. **Gemini Ultra 代儲防詐**：[2026 Gemini Ultra 代儲・代充攻略：免密碼、免給 Cookie vs 8591/蝦皮家庭組車位避坑](https://vaxaxas.github.io/guides/gemini-ultra-top-up-guide/) · [简中](https://vaxaxas.github.io/zh-cn/guides/gemini-ultra-top-up-guide/) · [EN](https://vaxaxas.github.io/en/guides/gemini-ultra-top-up-guide/)
+11. **Pro vs Ultra 與防爆帳單**：[Antigravity 免費版 vs Pro（NT$650 / 學生優惠）vs Ultra 5x/20x 與 `AI Credit Overages` 超額扣點陷阱](https://vaxaxas.github.io/guides/antigravity-pro-vs-ultra/) · [简中](https://vaxaxas.github.io/zh-cn/guides/antigravity-pro-vs-ultra/) · [EN](https://vaxaxas.github.io/en/guides/antigravity-pro-vs-ultra/)
+12. **5 小時沒重置與每週上限**：[為什麼過了 5 小時還是 `Quota Exceeded`？詳解每週滾動上限與 Claude / Gemini 雙模型池切換](https://vaxaxas.github.io/guides/antigravity-quota-exceeded-5-hour-reset/) · [简中](https://vaxaxas.github.io/zh-cn/guides/antigravity-quota-exceeded-5-hour-reset/) · [EN](https://vaxaxas.github.io/en/guides/antigravity-quota-exceeded-5-hour-reset/)
 
 ---
 
@@ -40,7 +44,7 @@
 - **Telegram 下單與客服直達專區**：[https://t.me/quotapulse_ai/4](https://t.me/quotapulse_ai/4)
 - **Discord 開發者訂閱伺服器**：[https://discord.gg/DFvzdwamkb](https://discord.gg/DFvzdwamkb)
 - **Threads 官方帳號（`@ultraprovider`）**：[https://www.threads.com/@ultraprovider](https://www.threads.com/@ultraprovider) · [Antigravity代儲置頂方案公告](https://www.threads.com/@ultraprovider/post/DgHzY7YGl5u)
-- **X (Twitter) 官方帳號（`@ultraprovider`）**：[https://x.com/ultraprovider](https://x.com/ultraprovider) · [Antigravity代儲置頂公告](https://x.com/ultraprovider/status/2125193580641960413)
+- **X (Twitter) 官方帳號（`@ultraprovider`）**：[https://x.com/ultraprovider](https://x.com/ultraprovider) · [Antigravity代儲置頂公告](https://www.threads.com/@ultraprovider)
 - **YouTube 官方頻道（`@quotapulse_ai`）**：[https://www.youtube.com/@quotapulse_ai](https://www.youtube.com/@quotapulse_ai) · [方案介紹影片](https://www.youtube.com/watch?v=DsXKDpgbQy4)
 - **GitHub 社群與客服總整理**：[Issue #1](https://github.com/Vaxaxas/vaxaxas.github.io/issues/1) · [公開 Gist 索引](https://gist.github.com/Vaxaxas/fc2361a31e358ed7b73980ab22d6a609)
 
