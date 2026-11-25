@@ -877,7 +877,10 @@ const promoMeta = {"active":true,"endsAt":"2026-12-08T23:59:59+08:00","labels":{
       try {
         const a = JSON.parse(localStorage.getItem('qp_attr') || 'null');
         if (a && Date.now() - a.t < 30 * 864e5) {
-          const src = [a.utm_source, a.utm_medium, a.utm_campaign, a.ref].map(cleanToken).filter(Boolean).join(' · ');
+          const src = [a.utm_source, a.utm_medium, a.utm_campaign, a.utm_content, a.utm_term, a.ref]
+            .map(cleanToken)
+            .filter(Boolean)
+            .join(' · ');
           if (src) return src;
         }
       } catch {}
@@ -1127,7 +1130,7 @@ const promoMeta = {"active":true,"endsAt":"2026-12-08T23:59:59+08:00","labels":{
       (function () {
         try {
           var q = new URLSearchParams(location.search);
-          var keys = ['utm_source', 'utm_medium', 'utm_campaign', 'ref'];
+          var keys = ['utm_source', 'utm_medium', 'utm_campaign', 'utm_content', 'utm_term', 'ref'];
           var got = {};
           keys.forEach(function (k) {
             var v = q.get(k);

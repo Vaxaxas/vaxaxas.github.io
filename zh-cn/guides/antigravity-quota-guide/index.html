@@ -500,7 +500,7 @@ public/*.mp4</code></pre> <h3>7. 灵活切换 Planning／Fast 模式并用 <code
       (function () {
         try {
           var q = new URLSearchParams(location.search);
-          var keys = ['utm_source', 'utm_medium', 'utm_campaign', 'ref'];
+          var keys = ['utm_source', 'utm_medium', 'utm_campaign', 'utm_content', 'utm_term', 'ref'];
           var got = {};
           keys.forEach(function (k) {
             var v = q.get(k);

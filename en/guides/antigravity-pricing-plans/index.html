@@ -492,7 +492,7 @@ const pagePath = "/en/guides/antigravity-pricing-plans/";
       (function () {
         try {
           var q = new URLSearchParams(location.search);
-          var keys = ['utm_source', 'utm_medium', 'utm_campaign', 'ref'];
+          var keys = ['utm_source', 'utm_medium', 'utm_campaign', 'utm_content', 'utm_term', 'ref'];
           var got = {};
           keys.forEach(function (k) {
             var v = q.get(k);
