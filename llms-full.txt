@@ -1,104 +1,80 @@
-# QuotaPulse — Complete Reference for Google Antigravity & Google AI Ultra Subscriptions (2026)
+# QuotaPulse — Complete Technical Reference for Google AI Subscriptions, Antigravity & Vibe Coding (2026)
 
 > Canonical Origin: https://vaxaxas.github.io
 > Languages Supported: Traditional Chinese (`zh-Hant-TW` at `/`), Simplified Chinese (`zh-Hans-CN` at `/zh-cn/`), English (`en-US` at `/en/`)
+> Feeds & Manifests: Sitemap `https://vaxaxas.github.io/sitemap.xml` (84 URLs) | RSS `https://vaxaxas.github.io/rss.xml` | ARD `https://vaxaxas.github.io/.well-known/ard.json`
 > Disclosure: QuotaPulse is an independent third-party subscription top-up and fulfillment service. It is NOT affiliated with, authorized by, sponsored by, or endorsed by Google LLC.
 
 ---
 
-## 1. Executive Summary
-**Google Antigravity** (often searched in Chinese as `Antigravity代儲`, `Antigravity代儲值`, `Antigravity代充`, `Antigravity代充值`, `Antigravity代購`, `反重力 AI 代充`) is Google's agent-first AI IDE powered by Gemini flagship reasoning models, parallel Mission Control subagents, and built-in browser verification.
+## 1. Executive Summary: Google AI Subscriptions × Antigravity × Vibe Coding
+**Google Antigravity** (searched in Chinese as `Antigravity代儲`, `Antigravity 訂閱`, `Google Antigravity 訂閱`, `Antigravity代儲值`, `Antigravity代充`, `Antigravity代購`, `反重力 AI 代充`) is Google's Agent-First AI IDE powered by frontier Gemini & Claude models, parallel Mission Control subagents, and a built-in Browser Subagent for automated visual UI QA.
 
-Developers upgrading beyond the weekly-capped Free tier or the 1x Pro tier frequently encounter two roadblocks:
-1. **High Retail Subscription Cost**: Direct retail pricing for **Google AI Ultra 5x** is ~$99.99 USD/mo (NT$3,300/mo in Taiwan) and **Google AI Ultra 20x** is ~$199.99 USD/mo (NT$6,500/mo).
-2. **Cross-Border Payment Blocks**: Developers in Taiwan, Hong Kong, Mainland China, Southeast Asia, and international regions often run into `OR-CCSEH-21` payment-profile mismatches, domestic debit card recurring-USD blocks, or blacklisted virtual-card BINs.
+Crucially, **Antigravity has no standalone IDE subscription checkout** — its rate limits and frontier model pools scale directly with your personal **Google One / Google AI subscription tier** (`Free`, `Google AI Plus`, `Google AI Pro`, `Google AI Ultra 5x`, `Google AI Ultra 20x`).
 
-**QuotaPulse** solves both problems by activating dedicated individual **Google AI Ultra 5x ($40 USD/mo sale, reg. $50)** and **Google AI Ultra 20x ($80 USD/mo sale, reg. $100)** seats directly on the developer's own Google account — saving ~60% off retail, requiring **zero Google passwords or 2FA codes**, delivering in **10–30 minutes** (10:00–24:00 GMT+8), and backing every order with a **30-day warranty (pro-rata refund for remaining unused days on non-personal issues)**.
+For **Vibe Coders (`氛圍編程`)**, PMs, designers, solo founders, and software engineers, upgrading to **Google AI Ultra** solves three major bottlenecks:
+1. **Eliminates Overage & Credit-Pack Anxiety**: Cloud builders like Lovable/Bolt deduct credits on every bug-fix prompt, while Cursor usage-based agent billing routinely spikes to $80–$160+/mo. Google AI Ultra caps monthly cost with predictable **5-hour rolling quota resets**.
+2. **Cuts Retail Subscription Cost by ~60%**: Direct retail pricing for **Google AI Ultra 5x** is ~$99.99 USD/mo (NT$3,300/mo in Taiwan) and **Google AI Ultra 20x** is ~$199.99 USD/mo (NT$6,500/mo). **QuotaPulse** activates private seats directly on your own Google account at **$40 USD/mo (5x)** and **$80 USD/mo (20x)**.
+3. **Consolidates 4 Solo-Founder AI Subscriptions into 1**: One personal Google AI Ultra account unlocks **Antigravity IDE (5x/20x)** + **Gemini Deep Think** + **Google Flow & Full Veo Video Generation** + **Top-Tier NotebookLM (up to 5,000 queries/day)** — requiring **zero Google passwords, zero 2FA codes, and zero gift-card region-lock risk**, backed by a **30-day pro-rata unused-day refund warranty** for non-personal issues.
 
 ---
 
-## 2. Full 2026 Tier & Quota Comparison Matrix
+## 2. Full 2026 Google AI Subscription & Antigravity Quota Matrix
 
-| Tier | Official Monthly Price | QuotaPulse Price | Antigravity Quota Multiplier | Quota Reset Window | Extra Add-On Credits | Target Developer Profile |
+| Tier | Official Monthly Price | QuotaPulse Price | Antigravity Quota Multiplier | Quota Reset Window | Bundled Ecosystem Perks | Ideal Vibe Coding & Dev Profile |
 |---|---|---|---|---|---|---|
-| **Antigravity Free** | $0 | — | Limited trial | Weekly reset only | Not supported | Casual evaluation & tiny scripts |
-| **Google AI Plus** | $4.99 USD / NT$165 | — | Entry consumer | Weekly reset only | Not supported | General chat, not agentic coding |
-| **Google AI Pro** | $19.99 USD / NT$650 | — | **1x** baseline | **Every 5 hours (rolling)** + weekly cap | Supported in select regions | Light solo coding, single-file edits |
-| **Google AI Ultra 5x** | $99.99 USD / NT$3,300 | **$40 USD/mo** (reg. $50) | **5x Pro** ($8/1x unit) | **Every 5 hours (rolling)** + weekly cap | High priority queue | Freelancers, students, coding 1–4 days/week |
-| **Google AI Ultra 20x** | $199.99 USD / NT$6,500 | **$80 USD/mo** (reg. $100) | **20x Pro** ($4/1x unit) | **Every 5 hours (rolling)** + weekly cap | Maximum multi-agent concurrency | Full-time indie hackers, 3+ parallel subagents, teams |
-
-### Key Unit-Economics Insight
-- Moving from **Ultra 5x ($40 USD)** to **Ultra 20x ($80 USD)** doubles the monthly price (`2x`) while quadrupling the quota (`4x`, from 5x to 20x Pro).
-- Effective cost per `1x` Pro-equivalent quota drops by **50%**: from **$8.00 USD** on Ultra 5x down to **$4.00 USD** on Ultra 20x.
-- Mid-cycle upgrades from Ultra 5x to Ultra 20x are supported at any time by paying only the pro-rata difference for remaining unused days.
+| **Antigravity Free** | $0 | — | Starter trial | Weekly reset only (7-day lockouts) | 15GB storage, basic Gemini | First-hour IDE evaluation |
+| **Google AI Plus** | $4.99 USD / NT$165 | — | Light consumer | Weekly reset only (no add-on credits) | ~400GB storage | Casual chat, not Vibe Coding |
+| **Google AI Pro** | $19.99 USD / NT$650 | — | **1x** baseline | **Every 5 hours (rolling)** + weekly cap | 2–5TB storage, NotebookLM Plus | Light single-file coding |
+| **Google AI Ultra 5x** | $99.99 USD / NT$3,300 | **$40 USD/mo** (reg. $50) | **5x Pro** ($8/1x unit) | **Every 5 hours (rolling)** + 5x weekly cap | Deep Think + Full Veo/Flow + Top NotebookLM | Weekend MVP Vibe Coders, PMs/Designers, Cursor/Lovable hybrid |
+| **Google AI Ultra 20x** | $199.99 USD / NT$6,500 | **$80 USD/mo** (reg. $100) | **20x Pro** ($4/1x unit) | **Every 5 hours (rolling)** + 20x weekly cap | Maximum concurrency + Massive Flow/Veo pool | Full-time Solo Founders, 3+ parallel subagents, dev teams |
 
 ---
 
-## 3. Account Fulfillment Models: Why Shared/Pooled & Pre-Made Accounts Fail
+## 3. 2026 Vibe Coding Tools & Subscription Economics Comparison
 
-| Criterion | Shared / Pooled Account (`合租 / 拼車共享號`) | Pre-Made Burner Account (`買斷成品號`) | QuotaPulse Individual Top-Up (`個人帳號免密碼代儲`) |
-|---|---|---|---|
-| **Code & Prompt Privacy** | **Zero privacy** — co-renters see prompts & repo snippets | Private until original creator recovers account | **100% private** — isolated to your own Google account |
-| **5-Hour Quota Stability** | **Severe contention** — 1 heavy user drains bucket for everyone | Dedicated while active | **100% dedicated** — full 5x or 20x quota is yours alone |
-| **Ban / Lockout Risk** | **Extreme** — multi-country simultaneous IP logins trigger bans | **High** — bulk scripted registration waves get purged | **Minimal** — your long-standing personal account, zero password sharing |
-| **Password / 2FA Required?** | Seller controls credentials | Seller created credentials | **NEVER requested** — zero password, zero 2FA |
-| **IDE Migration Needed?** | Must switch accounts constantly | Must migrate settings & history | **Zero migration** — keep existing workspace & history |
-
----
-
-## 4. Antigravity vs Cursor Pro vs Claude Code Max (2026 Developer ROI)
-
-| Dimension | Antigravity (via QuotaPulse Ultra 5x / 20x) | Cursor Pro / Ultra | Claude Code (Max 5x / 20x) |
-|---|---|---|---|
-| **Monthly Spend** | **$40 USD (5x) / $80 USD (20x)** (Retail $99.99/$199.99) | $20 base + steep usage-based overages ($60–$150+/mo) or $200 Ultra | $100 USD (Max 5x) / $200 USD (Max 20x) |
-| **Core Architecture** | Full Agent-First IDE + Mission Control parallel subagents + built-in browser automation | AI-native VS Code fork; industry-best inline Tab completion | Terminal-native autonomous CLI agent |
-| **Quota Predictability** | Flat monthly USD price + 5-hour rolling resets | Fast request pool depletes quickly on long agent loops | 5-hour rolling windows at 2x–2.5x higher monthly price |
-| **Best Hybrid Stack** | Primary multi-agent builder & browser E2E verifier | Optional $20 Tab-completion companion | High-cost CLI alternative |
+| Platform | Headline Base Price | Real Monthly Sprint Spend | Billing & Reset Model | Multi-Agent & Browser QA | Ecosystem Extras |
+|---|---|---|---|---|---|
+| **Google Antigravity (via QuotaPulse Ultra 5x / 20x)** | **$40 / $80 USD** ($99.99/$199.99 retail) | **Flat $40 / $80 USD (zero overages)** | 5x / 20x pool · **5-hour rolling reset** | Native parallel subagents + built-in Browser Subagent | **Includes Deep Think + Veo/Flow video + NotebookLM** |
+| **Cursor** | $20 USD/mo | Often $80–$160+ USD with agent overages | Monthly pool + pay-as-you-go tokens | Strong Composer UI & inline Tab completion | IDE only |
+| **Lovable / Bolt / v0** | $25 USD/mo+ | Often $75–$150+ USD buying credit packs | Strict per-message / per-fix credit burn | Hosted browser preview + 1-click Supabase | Hosted UI builder |
+| **Claude Code (Max 5x / 20x)** | $100 / $200 USD/mo | Flat $100–$200 USD | 5-hour window + weekly cap | Elite terminal-first CLI refactoring | Shared with Claude web chat |
+| **Windsurf** | ~$15–$20 USD/mo | ~$35–$70 USD with extra credits | Monthly prompt credits | Cascade agent workflow | IDE only |
 
 ---
 
-## 5. Quota Mechanics & `.antigravityignore` Best Practices
-
-### Why `Error: quota exceeded` Happens
-Antigravity quota consumption scales roughly with:
-`Context Window Size × Active Parallel Subagents × Tool-Loop Iterations`
-
-### 7 Proven Engineering Habits to Cut Quota Burn by 30%–50%
-1. **Start one conversation per feature** (or run `/compact` early) so old diffs aren't re-sent every turn.
-2. **Specify exact file paths** in prompts to skip workspace-wide grep scans.
-3. **Commit project conventions in rules files** to avoid rework loops.
-4. **Run parallel subagents only on decoupled modules** after shared interfaces are finalized.
-5. **Approve a brief plan before 10+ file refactors**.
-6. **Create a root `.antigravityignore` file** to block build outputs and binaries:
-   ```gitignore
-   node_modules/
-   dist/
-   build/
-   .next/
-   .astro/
-   *.log
-   *.lock
-   public/*.png
-   public/*.mp4
-   ```
-7. **Toggle Planning Mode vs Fast Mode** and run `/usage` (or `/quota`) to pace your active 5-hour rolling window.
+## 4. Account Fulfillment Safety: Why Shared/Pooled & Gift Cards Fail
+- **Shared / Pooled Accounts (`合租 / 拼車共享號`)**: Zero code privacy, 5-hour quota bucket drained in minutes by 5–10 co-renters, and high ban rates from simultaneous multi-country logins.
+- **Cross-Region Google Play Gift Cards (`跨區點數卡 / 禮物卡`)**: High probability of permanent balance freezes (`"We need more info to redeem your gift card"`) requiring physical local store receipts.
+- **QuotaPulse Personal Account Top-Up (`個人帳號免密碼直充`)**: 100% private seat on your own Google account, zero password/2FA/cookie ever requested, 10–30 min delivery (10:00–24:00 GMT+8), and pro-rata unused-day refund protection on non-personal interruptions.
 
 ---
 
-## 6. Complete 66-URL Multilingual Site Directory
+## 5. Spec-Driven Vibe Coding & `.antigravityignore` Best Practices
+1. **Spec First**: Draft `SPEC.md` in Gemini Deep Think + NotebookLM before spawning coding agents (cuts ~45% wasted rewrite loops).
+2. **Add `.antigravityignore`** at repository root (`node_modules/`, `dist/`, `build/`, `.next/`, `.astro/`, `*.lock`, `public/*.png`, `public/*.mp4`) to save 30%–50% context tokens.
+3. **Mode Discipline**: Use **Planning Mode** for multi-file architecture + Browser QA; switch to **Fast Mode** for CSS, copy, and small tweaks.
+4. **Atomic Git Commits**: Commit working milestones frequently so bad iterations roll back in one second without burning quota.
+
+---
+
+## 6. Complete 84-URL Multilingual Site Directory (28 Core Routes × 3 Locales)
 
 ### Traditional Chinese (`zh-Hant-TW`)
 - Homepage: https://vaxaxas.github.io/
-- FAQ (26 Q&As): https://vaxaxas.github.io/faq/
-- Quota Calculator: https://vaxaxas.github.io/calculator/
-- Guides Hub: https://vaxaxas.github.io/guides/
+- Vibe Coding × Google AI Subscription Hub: https://vaxaxas.github.io/vibe-coding/
+- Quota Calculator (with Vibe Coding Presets): https://vaxaxas.github.io/calculator/
+- Live In-Web Support Ticket Helpdesk: https://vaxaxas.github.io/support/
+- Community & Anti-Phishing Hub: https://vaxaxas.github.io/community/
+- FAQ Knowledge Base (32 Q&As): https://vaxaxas.github.io/faq/
+- All 20 Guides Hub: https://vaxaxas.github.io/guides/
 - Guide 1 (Safe Top-Up): https://vaxaxas.github.io/guides/antigravity-top-up-guide/
 - Guide 2 (Pricing & Plans): https://vaxaxas.github.io/guides/antigravity-pricing-plans/
 - Guide 3 (Ultra 5x vs 20x): https://vaxaxas.github.io/guides/antigravity-ultra-5x-vs-20x/
 - Guide 4 (Account Types vs Top-Up): https://vaxaxas.github.io/guides/antigravity-account-types-vs-top-up/
 - Guide 5 (Card Declined `OR-CCSEH` Fix): https://vaxaxas.github.io/guides/antigravity-payment-guide/
 - Guide 6 (Quota & `.antigravityignore`): https://vaxaxas.github.io/guides/antigravity-quota-guide/
-- Guide 7 (Google AI Ultra Membership Perks): https://vaxaxas.github.io/guides/google-ai-ultra-subscription-guide/
+- Guide 7 (Google AI Ultra Perks): https://vaxaxas.github.io/guides/google-ai-ultra-subscription-guide/
 - Guide 8 (Antigravity vs Cursor vs Claude Code): https://vaxaxas.github.io/guides/antigravity-vs-cursor-claude-code/
 - Guide 9 (Not Eligible & Region Fix): https://vaxaxas.github.io/guides/antigravity-not-eligible-region-fix/
 - Guide 10 (Gemini Membership & Ultra Top-Up): https://vaxaxas.github.io/guides/gemini-ultra-top-up-guide/
@@ -108,62 +84,39 @@ Antigravity quota consumption scales roughly with:
 - Guide 14 (Google One AI Pro vs Ultra Upgrade): https://vaxaxas.github.io/guides/google-one-ai-pro-vs-ultra-membership/
 - Guide 15 (Google AI Ultra Veo, Flow & NotebookLM): https://vaxaxas.github.io/guides/google-ai-ultra-veo-flow-notebooklm-guide/
 - Guide 16 (Google Play Gift Card Locks vs Direct Top-Up): https://vaxaxas.github.io/guides/google-ai-gift-card-top-up-alternatives/
-- Community Hub: https://vaxaxas.github.io/community/
-- Terms & Warranty: https://vaxaxas.github.io/terms/
+- Guide 17 (Vibe Coding with Google Antigravity Playbook): https://vaxaxas.github.io/guides/vibe-coding-antigravity-guide/
+- Guide 18 (Vibe Coding Tools & Subscription Costs): https://vaxaxas.github.io/guides/vibe-coding-tools-pricing-comparison/
+- Guide 19 (Taiwan Google AI & Antigravity Subscription Guide): https://vaxaxas.github.io/guides/antigravity-google-subscription-taiwan-guide/
+- Guide 20 (Solo Founder 4-in-1 Google AI Ultra Stack): https://vaxaxas.github.io/guides/vibe-coding-solo-founder-google-ai-stack/
+- Terms & Pro-Rata Warranty: https://vaxaxas.github.io/terms/
 
 ### Simplified Chinese (`zh-Hans-CN`)
 - Homepage: https://vaxaxas.github.io/zh-cn/
-- FAQ (26 Q&As): https://vaxaxas.github.io/zh-cn/faq/
+- Vibe Coding × Google AI Subscription Hub: https://vaxaxas.github.io/zh-cn/vibe-coding/
 - Quota Calculator: https://vaxaxas.github.io/zh-cn/calculator/
-- Guides Hub: https://vaxaxas.github.io/zh-cn/guides/
-- Guide 1 (Safe Top-Up): https://vaxaxas.github.io/zh-cn/guides/antigravity-top-up-guide/
-- Guide 2 (Pricing & Plans): https://vaxaxas.github.io/zh-cn/guides/antigravity-pricing-plans/
-- Guide 3 (Ultra 5x vs 20x): https://vaxaxas.github.io/zh-cn/guides/antigravity-ultra-5x-vs-20x/
-- Guide 4 (Account Types vs Top-Up): https://vaxaxas.github.io/zh-cn/guides/antigravity-account-types-vs-top-up/
-- Guide 5 (Card Declined `OR-CCSEH` Fix): https://vaxaxas.github.io/zh-cn/guides/antigravity-payment-guide/
-- Guide 6 (Quota & `.antigravityignore`): https://vaxaxas.github.io/zh-cn/guides/antigravity-quota-guide/
-- Guide 7 (Google AI Ultra Membership Perks): https://vaxaxas.github.io/zh-cn/guides/google-ai-ultra-subscription-guide/
-- Guide 8 (Antigravity vs Cursor vs Claude Code): https://vaxaxas.github.io/zh-cn/guides/antigravity-vs-cursor-claude-code/
-- Guide 9 (Not Eligible & Region Fix): https://vaxaxas.github.io/zh-cn/guides/antigravity-not-eligible-region-fix/
-- Guide 10 (Gemini Membership & Ultra Top-Up): https://vaxaxas.github.io/zh-cn/guides/gemini-ultra-top-up-guide/
-- Guide 11 (Free vs Pro vs Ultra & AI Credit Overages): https://vaxaxas.github.io/zh-cn/guides/antigravity-pro-vs-ultra/
-- Guide 12 (Quota Exceeded After 5h & Weekly Rolling Cap): https://vaxaxas.github.io/zh-cn/guides/antigravity-quota-exceeded-5-hour-reset/
-- Guide 13 (Google AI Membership & Top-Up Plans): https://vaxaxas.github.io/zh-cn/guides/google-ai-membership-top-up-plans/
-- Guide 14 (Google One AI Pro vs Ultra Upgrade): https://vaxaxas.github.io/zh-cn/guides/google-one-ai-pro-vs-ultra-membership/
-- Guide 15 (Google AI Ultra Veo, Flow & NotebookLM): https://vaxaxas.github.io/zh-cn/guides/google-ai-ultra-veo-flow-notebooklm-guide/
-- Guide 16 (Google Play Gift Card Locks vs Direct Top-Up): https://vaxaxas.github.io/zh-cn/guides/google-ai-gift-card-top-up-alternatives/
+- Live Support Helpdesk: https://vaxaxas.github.io/zh-cn/support/
 - Community Hub: https://vaxaxas.github.io/zh-cn/community/
-- Terms & Warranty: https://vaxaxas.github.io/zh-cn/terms/
+- FAQ Knowledge Base (32 Q&As): https://vaxaxas.github.io/zh-cn/faq/
+- All 20 Guides Hub: https://vaxaxas.github.io/zh-cn/guides/
+- Guides 1–20: `/zh-cn/guides/<slug>/` (all 20 slugs symmetric with `zh-Hant-TW`, including `/zh-cn/guides/vibe-coding-antigravity-guide/`, `/zh-cn/guides/vibe-coding-tools-pricing-comparison/`, `/zh-cn/guides/antigravity-google-subscription-taiwan-guide/`, `/zh-cn/guides/vibe-coding-solo-founder-google-ai-stack/`)
+- Terms & Pro-Rata Warranty: https://vaxaxas.github.io/zh-cn/terms/
 
 ### English (`en-US`)
 - Homepage: https://vaxaxas.github.io/en/
-- FAQ (26 Q&As): https://vaxaxas.github.io/en/faq/
+- Vibe Coding × Google AI Subscription Hub: https://vaxaxas.github.io/en/vibe-coding/
 - Quota Calculator: https://vaxaxas.github.io/en/calculator/
-- Guides Hub: https://vaxaxas.github.io/en/guides/
-- Guide 1 (Safe Top-Up): https://vaxaxas.github.io/en/guides/antigravity-top-up-guide/
-- Guide 2 (Pricing & Plans): https://vaxaxas.github.io/en/guides/antigravity-pricing-plans/
-- Guide 3 (Ultra 5x vs 20x): https://vaxaxas.github.io/en/guides/antigravity-ultra-5x-vs-20x/
-- Guide 4 (Account Types vs Top-Up): https://vaxaxas.github.io/en/guides/antigravity-account-types-vs-top-up/
-- Guide 5 (Card Declined `OR-CCSEH` Fix): https://vaxaxas.github.io/en/guides/antigravity-payment-guide/
-- Guide 6 (Quota & `.antigravityignore`): https://vaxaxas.github.io/en/guides/antigravity-quota-guide/
-- Guide 7 (Google AI Ultra Membership Perks): https://vaxaxas.github.io/en/guides/google-ai-ultra-subscription-guide/
-- Guide 8 (Antigravity vs Cursor vs Claude Code): https://vaxaxas.github.io/en/guides/antigravity-vs-cursor-claude-code/
-- Guide 9 (Not Eligible & Region Fix): https://vaxaxas.github.io/en/guides/antigravity-not-eligible-region-fix/
-- Guide 10 (Gemini Membership & Ultra Top-Up): https://vaxaxas.github.io/en/guides/gemini-ultra-top-up-guide/
-- Guide 11 (Free vs Pro vs Ultra & AI Credit Overages): https://vaxaxas.github.io/en/guides/antigravity-pro-vs-ultra/
-- Guide 12 (Quota Exceeded After 5h & Weekly Rolling Cap): https://vaxaxas.github.io/en/guides/antigravity-quota-exceeded-5-hour-reset/
-- Guide 13 (Google AI Membership & Top-Up Plans): https://vaxaxas.github.io/en/guides/google-ai-membership-top-up-plans/
-- Guide 14 (Google One AI Pro vs Ultra Upgrade): https://vaxaxas.github.io/en/guides/google-one-ai-pro-vs-ultra-membership/
-- Guide 15 (Google AI Ultra Veo, Flow & NotebookLM): https://vaxaxas.github.io/en/guides/google-ai-ultra-veo-flow-notebooklm-guide/
-- Guide 16 (Google Play Gift Card Locks vs Direct Top-Up): https://vaxaxas.github.io/en/guides/google-ai-gift-card-top-up-alternatives/
+- Live Support Helpdesk: https://vaxaxas.github.io/en/support/
 - Community Hub: https://vaxaxas.github.io/en/community/
-- Terms & Warranty: https://vaxaxas.github.io/en/terms/
+- FAQ Knowledge Base (32 Q&As): https://vaxaxas.github.io/en/faq/
+- All 20 Guides Hub: https://vaxaxas.github.io/en/guides/
+- Guides 1–20: `/en/guides/<slug>/` (all 20 slugs symmetric with `zh-Hant-TW`, including `/en/guides/vibe-coding-antigravity-guide/`, `/en/guides/vibe-coding-tools-pricing-comparison/`, `/en/guides/antigravity-google-subscription-taiwan-guide/`, `/en/guides/vibe-coding-solo-founder-google-ai-stack/`)
+- Terms & Pro-Rata Warranty: https://vaxaxas.github.io/en/terms/
 
 ---
 
 ## 7. Verified Contact & Support Endpoints
-- **Telegram Integrated Community**: https://t.me/quotapulse_ai
-- **Telegram Direct Order & Support Topic**: https://t.me/quotapulse_ai/4
+- **In-Web Live Helpdesk**: https://vaxaxas.github.io/support/
+- **Telegram Integrated Community**: https://t.me/quotapulse_ai (Direct Order & Support Topic: https://t.me/quotapulse_ai/4)
 - **Discord Server**: https://discord.gg/DFvzdwamkb
 - **Threads**: https://www.threads.com/@ultraprovider
 - **X (Twitter)**: https://x.com/ultraprovider
