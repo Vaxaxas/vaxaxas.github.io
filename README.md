@@ -1,6 +1,6 @@
 # Antigravity代儲・代儲值・代充值・代購｜Google AI Ultra / Gemini Ultra 獨享方案與開發者知識庫（QuotaPulse）
 
-專為軟體工程師、接案開發者與小型團隊打造的 **Antigravity代儲（代儲值／代充值／會員代購／反重力 AI 代充）與 Google AI Ultra（Gemini Ultra）5x / 20x 充入個人帳號獨享開通服務**。免自備外幣信用卡、**全程絕不索取 Google 主帳號密碼、2FA 驗證碼或瀏覽器 Cookie**，服務時間內平均 **10–30 分鐘快速開通**，享公開透明的 **30 天按天比例退補保固**。
+專為軟體工程師、接案開發者與小型團隊打造的 **Antigravity代儲（代儲值／代充值／會員代購／反重力 AI 代充）與 Google AI Ultra（Gemini Ultra）5x / 20x 充入個人帳號獨享開通服務**。免自備外幣信用卡、**全程絕不索取 Google 主帳號密碼、2FA 驗證碼或瀏覽器 Cookie**，服務時間內平均 **10–30 分鐘快速開通**，享公開透明的 **30 天保固（非個人因素依照未使用到的天數比例退款）**。
 
 - 🌐 **官方網站（繁體中文）**：[https://vaxaxas.github.io/](https://vaxaxas.github.io/)
 - 🌐 **官方网站（简体中文）**：[https://vaxaxas.github.io/zh-cn/](https://vaxaxas.github.io/zh-cn/)
@@ -44,7 +44,7 @@
 - **Telegram 下單與客服直達專區**：[https://t.me/quotapulse_ai/4](https://t.me/quotapulse_ai/4)
 - **Discord 開發者訂閱伺服器**：[https://discord.gg/DFvzdwamkb](https://discord.gg/DFvzdwamkb)
 - **Threads 官方帳號（`@ultraprovider`）**：[https://www.threads.com/@ultraprovider](https://www.threads.com/@ultraprovider) · [Antigravity代儲置頂方案公告](https://www.threads.com/@ultraprovider/post/DgHzY7YGl5u)
-- **X (Twitter) 官方帳號（`@ultraprovider`）**：[https://x.com/ultraprovider](https://x.com/ultraprovider) · [Antigravity代儲置頂公告](https://www.threads.com/@ultraprovider)
+- **X (Twitter) 官方帳號（`@ultraprovider`）**：[https://x.com/ultraprovider](https://x.com/ultraprovider) · [Antigravity代儲置頂公告](https://x.com/ultraprovider/status/2125193580641960413)
 - **YouTube 官方頻道（`@quotapulse_ai`）**：[https://www.youtube.com/@quotapulse_ai](https://www.youtube.com/@quotapulse_ai) · [方案介紹影片](https://www.youtube.com/watch?v=DsXKDpgbQy4)
 - **GitHub 社群與客服總整理**：[Issue #1](https://github.com/Vaxaxas/vaxaxas.github.io/issues/1) · [公開 Gist 索引](https://gist.github.com/Vaxaxas/fc2361a31e358ed7b73980ab22d6a609)
 

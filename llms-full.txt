@@ -13,7 +13,7 @@ Developers upgrading beyond the weekly-capped Free tier or the 1x Pro tier frequ
 1. **High Retail Subscription Cost**: Direct retail pricing for **Google AI Ultra 5x** is ~$99.99 USD/mo (NT$3,300/mo in Taiwan) and **Google AI Ultra 20x** is ~$199.99 USD/mo (NT$6,500/mo).
 2. **Cross-Border Payment Blocks**: Developers in Taiwan, Hong Kong, Mainland China, Southeast Asia, and international regions often run into `OR-CCSEH-21` payment-profile mismatches, domestic debit card recurring-USD blocks, or blacklisted virtual-card BINs.
 
-**QuotaPulse** solves both problems by activating dedicated individual **Google AI Ultra 5x ($40 USD/mo sale, reg. $50)** and **Google AI Ultra 20x ($80 USD/mo sale, reg. $100)** seats directly on the developer's own Google account — saving ~60% off retail, requiring **zero Google passwords or 2FA codes**, delivering in **10–30 minutes** (10:00–24:00 GMT+8), and backing every order with a **30-day pro-rata warranty**.
+**QuotaPulse** solves both problems by activating dedicated individual **Google AI Ultra 5x ($40 USD/mo sale, reg. $50)** and **Google AI Ultra 20x ($80 USD/mo sale, reg. $100)** seats directly on the developer's own Google account — saving ~60% off retail, requiring **zero Google passwords or 2FA codes**, delivering in **10–30 minutes** (10:00–24:00 GMT+8), and backing every order with a **30-day warranty (pro-rata refund for remaining unused days on non-personal issues)**.
 
 ---
 
@@ -22,7 +22,7 @@ Developers upgrading beyond the weekly-capped Free tier or the 1x Pro tier frequ
 | Tier | Official Monthly Price | QuotaPulse Price | Antigravity Quota Multiplier | Quota Reset Window | Extra Add-On Credits | Target Developer Profile |
 |---|---|---|---|---|---|---|
 | **Antigravity Free** | $0 | — | Limited trial | Weekly reset only | Not supported | Casual evaluation & tiny scripts |
-| **Google AI Plus** | ~$5.50 USD / NT$165 | — | Entry consumer | Weekly reset only | Not supported | General chat, not agentic coding |
+| **Google AI Plus** | $4.99 USD / NT$165 | — | Entry consumer | Weekly reset only | Not supported | General chat, not agentic coding |
 | **Google AI Pro** | $19.99 USD / NT$650 | — | **1x** baseline | **Every 5 hours (rolling)** + weekly cap | Supported in select regions | Light solo coding, single-file edits |
 | **Google AI Ultra 5x** | $99.99 USD / NT$3,300 | **$40 USD/mo** (reg. $50) | **5x Pro** ($8/1x unit) | **Every 5 hours (rolling)** + weekly cap | High priority queue | Freelancers, students, coding 1–4 days/week |
 | **Google AI Ultra 20x** | $199.99 USD / NT$6,500 | **$80 USD/mo** (reg. $100) | **20x Pro** ($4/1x unit) | **Every 5 hours (rolling)** + weekly cap | Maximum multi-agent concurrency | Full-time indie hackers, 3+ parallel subagents, teams |
@@ -85,7 +85,7 @@ Antigravity quota consumption scales roughly with:
 
 ---
 
-## 6. Complete 42-URL Multilingual Site Directory
+## 6. Complete 54-URL Multilingual Site Directory
 
 ### Traditional Chinese (`zh-Hant-TW`)
 - Homepage: https://vaxaxas.github.io/

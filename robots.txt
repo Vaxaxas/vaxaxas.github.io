@@ -1,6 +1,9 @@
 User-agent: *
 Allow: /
 Disallow: /social/
+Disallow: /api/
+Disallow: /_headers
+Disallow: /README.md
 
 Sitemap: https://vaxaxas.github.io/sitemap.xml
 Sitemap: https://vaxaxas.github.io/sitemap-index.xml
