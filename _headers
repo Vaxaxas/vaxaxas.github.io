@@ -4,3 +4,6 @@
 
 /social/*
   X-Robots-Tag: noindex, nofollow
+
+/support/admin/*
+  X-Robots-Tag: noindex, nofollow

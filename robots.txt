@@ -1,6 +1,7 @@
 User-agent: *
 Allow: /
 Disallow: /social/
+Disallow: /support/admin/
 Disallow: /api/
 Disallow: /_headers
 Disallow: /README.md
