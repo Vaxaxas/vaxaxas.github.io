@@ -85,65 +85,77 @@ Antigravity quota consumption scales roughly with:
 
 ---
 
-## 6. Complete 54-URL Multilingual Site Directory
+## 6. Complete 66-URL Multilingual Site Directory
 
 ### Traditional Chinese (`zh-Hant-TW`)
 - Homepage: https://vaxaxas.github.io/
-- FAQ (22 Q&As): https://vaxaxas.github.io/faq/
+- FAQ (26 Q&As): https://vaxaxas.github.io/faq/
 - Quota Calculator: https://vaxaxas.github.io/calculator/
 - Guides Hub: https://vaxaxas.github.io/guides/
 - Guide 1 (Safe Top-Up): https://vaxaxas.github.io/guides/antigravity-top-up-guide/
 - Guide 2 (Pricing & Plans): https://vaxaxas.github.io/guides/antigravity-pricing-plans/
 - Guide 3 (Ultra 5x vs 20x): https://vaxaxas.github.io/guides/antigravity-ultra-5x-vs-20x/
 - Guide 4 (Account Types vs Top-Up): https://vaxaxas.github.io/guides/antigravity-account-types-vs-top-up/
-- Guide 5 (Quota & `.antigravityignore`): https://vaxaxas.github.io/guides/antigravity-quota-guide/
-- Guide 6 (Card Declined `OR-CCSEH` Fix): https://vaxaxas.github.io/guides/antigravity-payment-guide/
-- Guide 7 (Google AI Ultra Perks): https://vaxaxas.github.io/guides/google-ai-ultra-subscription-guide/
+- Guide 5 (Card Declined `OR-CCSEH` Fix): https://vaxaxas.github.io/guides/antigravity-payment-guide/
+- Guide 6 (Quota & `.antigravityignore`): https://vaxaxas.github.io/guides/antigravity-quota-guide/
+- Guide 7 (Google AI Ultra Membership Perks): https://vaxaxas.github.io/guides/google-ai-ultra-subscription-guide/
 - Guide 8 (Antigravity vs Cursor vs Claude Code): https://vaxaxas.github.io/guides/antigravity-vs-cursor-claude-code/
 - Guide 9 (Not Eligible & Region Fix): https://vaxaxas.github.io/guides/antigravity-not-eligible-region-fix/
-- Guide 10 (Gemini Ultra Top-Up vs Cookie/Family Share): https://vaxaxas.github.io/guides/gemini-ultra-top-up-guide/
+- Guide 10 (Gemini Membership & Ultra Top-Up): https://vaxaxas.github.io/guides/gemini-ultra-top-up-guide/
 - Guide 11 (Free vs Pro vs Ultra & AI Credit Overages): https://vaxaxas.github.io/guides/antigravity-pro-vs-ultra/
 - Guide 12 (Quota Exceeded After 5h & Weekly Rolling Cap): https://vaxaxas.github.io/guides/antigravity-quota-exceeded-5-hour-reset/
+- Guide 13 (Google AI Membership & Top-Up Plans): https://vaxaxas.github.io/guides/google-ai-membership-top-up-plans/
+- Guide 14 (Google One AI Pro vs Ultra Upgrade): https://vaxaxas.github.io/guides/google-one-ai-pro-vs-ultra-membership/
+- Guide 15 (Google AI Ultra Veo, Flow & NotebookLM): https://vaxaxas.github.io/guides/google-ai-ultra-veo-flow-notebooklm-guide/
+- Guide 16 (Google Play Gift Card Locks vs Direct Top-Up): https://vaxaxas.github.io/guides/google-ai-gift-card-top-up-alternatives/
 - Community Hub: https://vaxaxas.github.io/community/
 - Terms & Warranty: https://vaxaxas.github.io/terms/
 
 ### Simplified Chinese (`zh-Hans-CN`)
 - Homepage: https://vaxaxas.github.io/zh-cn/
-- FAQ (22 Q&As): https://vaxaxas.github.io/zh-cn/faq/
+- FAQ (26 Q&As): https://vaxaxas.github.io/zh-cn/faq/
 - Quota Calculator: https://vaxaxas.github.io/zh-cn/calculator/
 - Guides Hub: https://vaxaxas.github.io/zh-cn/guides/
 - Guide 1 (Safe Top-Up): https://vaxaxas.github.io/zh-cn/guides/antigravity-top-up-guide/
 - Guide 2 (Pricing & Plans): https://vaxaxas.github.io/zh-cn/guides/antigravity-pricing-plans/
 - Guide 3 (Ultra 5x vs 20x): https://vaxaxas.github.io/zh-cn/guides/antigravity-ultra-5x-vs-20x/
 - Guide 4 (Account Types vs Top-Up): https://vaxaxas.github.io/zh-cn/guides/antigravity-account-types-vs-top-up/
-- Guide 5 (Quota & `.antigravityignore`): https://vaxaxas.github.io/zh-cn/guides/antigravity-quota-guide/
-- Guide 6 (Card Declined `OR-CCSEH` Fix): https://vaxaxas.github.io/zh-cn/guides/antigravity-payment-guide/
-- Guide 7 (Google AI Ultra Perks): https://vaxaxas.github.io/zh-cn/guides/google-ai-ultra-subscription-guide/
+- Guide 5 (Card Declined `OR-CCSEH` Fix): https://vaxaxas.github.io/zh-cn/guides/antigravity-payment-guide/
+- Guide 6 (Quota & `.antigravityignore`): https://vaxaxas.github.io/zh-cn/guides/antigravity-quota-guide/
+- Guide 7 (Google AI Ultra Membership Perks): https://vaxaxas.github.io/zh-cn/guides/google-ai-ultra-subscription-guide/
 - Guide 8 (Antigravity vs Cursor vs Claude Code): https://vaxaxas.github.io/zh-cn/guides/antigravity-vs-cursor-claude-code/
 - Guide 9 (Not Eligible & Region Fix): https://vaxaxas.github.io/zh-cn/guides/antigravity-not-eligible-region-fix/
-- Guide 10 (Gemini Ultra Top-Up vs Cookie/Family Share): https://vaxaxas.github.io/zh-cn/guides/gemini-ultra-top-up-guide/
+- Guide 10 (Gemini Membership & Ultra Top-Up): https://vaxaxas.github.io/zh-cn/guides/gemini-ultra-top-up-guide/
 - Guide 11 (Free vs Pro vs Ultra & AI Credit Overages): https://vaxaxas.github.io/zh-cn/guides/antigravity-pro-vs-ultra/
 - Guide 12 (Quota Exceeded After 5h & Weekly Rolling Cap): https://vaxaxas.github.io/zh-cn/guides/antigravity-quota-exceeded-5-hour-reset/
+- Guide 13 (Google AI Membership & Top-Up Plans): https://vaxaxas.github.io/zh-cn/guides/google-ai-membership-top-up-plans/
+- Guide 14 (Google One AI Pro vs Ultra Upgrade): https://vaxaxas.github.io/zh-cn/guides/google-one-ai-pro-vs-ultra-membership/
+- Guide 15 (Google AI Ultra Veo, Flow & NotebookLM): https://vaxaxas.github.io/zh-cn/guides/google-ai-ultra-veo-flow-notebooklm-guide/
+- Guide 16 (Google Play Gift Card Locks vs Direct Top-Up): https://vaxaxas.github.io/zh-cn/guides/google-ai-gift-card-top-up-alternatives/
 - Community Hub: https://vaxaxas.github.io/zh-cn/community/
 - Terms & Warranty: https://vaxaxas.github.io/zh-cn/terms/
 
 ### English (`en-US`)
 - Homepage: https://vaxaxas.github.io/en/
-- FAQ (22 Q&As): https://vaxaxas.github.io/en/faq/
+- FAQ (26 Q&As): https://vaxaxas.github.io/en/faq/
 - Quota Calculator: https://vaxaxas.github.io/en/calculator/
 - Guides Hub: https://vaxaxas.github.io/en/guides/
 - Guide 1 (Safe Top-Up): https://vaxaxas.github.io/en/guides/antigravity-top-up-guide/
 - Guide 2 (Pricing & Plans): https://vaxaxas.github.io/en/guides/antigravity-pricing-plans/
 - Guide 3 (Ultra 5x vs 20x): https://vaxaxas.github.io/en/guides/antigravity-ultra-5x-vs-20x/
 - Guide 4 (Account Types vs Top-Up): https://vaxaxas.github.io/en/guides/antigravity-account-types-vs-top-up/
-- Guide 5 (Quota & `.antigravityignore`): https://vaxaxas.github.io/en/guides/antigravity-quota-guide/
-- Guide 6 (Card Declined `OR-CCSEH` Fix): https://vaxaxas.github.io/en/guides/antigravity-payment-guide/
-- Guide 7 (Google AI Ultra Perks): https://vaxaxas.github.io/en/guides/google-ai-ultra-subscription-guide/
+- Guide 5 (Card Declined `OR-CCSEH` Fix): https://vaxaxas.github.io/en/guides/antigravity-payment-guide/
+- Guide 6 (Quota & `.antigravityignore`): https://vaxaxas.github.io/en/guides/antigravity-quota-guide/
+- Guide 7 (Google AI Ultra Membership Perks): https://vaxaxas.github.io/en/guides/google-ai-ultra-subscription-guide/
 - Guide 8 (Antigravity vs Cursor vs Claude Code): https://vaxaxas.github.io/en/guides/antigravity-vs-cursor-claude-code/
 - Guide 9 (Not Eligible & Region Fix): https://vaxaxas.github.io/en/guides/antigravity-not-eligible-region-fix/
-- Guide 10 (Gemini Ultra Top-Up vs Cookie/Family Share): https://vaxaxas.github.io/en/guides/gemini-ultra-top-up-guide/
+- Guide 10 (Gemini Membership & Ultra Top-Up): https://vaxaxas.github.io/en/guides/gemini-ultra-top-up-guide/
 - Guide 11 (Free vs Pro vs Ultra & AI Credit Overages): https://vaxaxas.github.io/en/guides/antigravity-pro-vs-ultra/
 - Guide 12 (Quota Exceeded After 5h & Weekly Rolling Cap): https://vaxaxas.github.io/en/guides/antigravity-quota-exceeded-5-hour-reset/
+- Guide 13 (Google AI Membership & Top-Up Plans): https://vaxaxas.github.io/en/guides/google-ai-membership-top-up-plans/
+- Guide 14 (Google One AI Pro vs Ultra Upgrade): https://vaxaxas.github.io/en/guides/google-one-ai-pro-vs-ultra-membership/
+- Guide 15 (Google AI Ultra Veo, Flow & NotebookLM): https://vaxaxas.github.io/en/guides/google-ai-ultra-veo-flow-notebooklm-guide/
+- Guide 16 (Google Play Gift Card Locks vs Direct Top-Up): https://vaxaxas.github.io/en/guides/google-ai-gift-card-top-up-alternatives/
 - Community Hub: https://vaxaxas.github.io/en/community/
 - Terms & Warranty: https://vaxaxas.github.io/en/terms/
 
