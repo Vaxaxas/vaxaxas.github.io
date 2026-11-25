@@ -7,3 +7,4 @@ Disallow: /README.md
 
 Sitemap: https://vaxaxas.github.io/sitemap.xml
 Sitemap: https://vaxaxas.github.io/sitemap-index.xml
+Agentmap: https://vaxaxas.github.io/.well-known/ard.json

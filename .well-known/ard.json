@@ -1,0 +1,98 @@
+{
+  "entries": [
+    {
+      "@context": "https://agenticresourcediscovery.org/context/v1",
+      "identifier": "urn:air:vaxaxas.github.io:catalog:quotapulse-google-ai-membership",
+      "displayName": "QuotaPulse — Antigravity代儲 & Google AI 會員 Ultra 儲值方案",
+      "type": "application/agent-card+json",
+      "description": "Direct personal-account top-up plans for Google AI Membership, Google AI Ultra 5x ($40/mo) & 20x ($80/mo), Google Antigravity, Gemini Deep Think, Google Flow (Veo), and NotebookLM — zero password, zero 2FA, zero gift-card lockouts, with pro-rata unused-day refund warranty for non-personal issues.",
+      "data": {
+        "name": "QuotaPulse",
+        "url": "https://vaxaxas.github.io/",
+        "locales": ["zh-Hant-TW", "zh-Hans-CN", "en-US"],
+        "plans": [
+          {
+            "id": "ultra-5x",
+            "name": "Google AI Ultra 5x (Antigravity 5h Reset + Gemini Ultra + Flow + NotebookLM)",
+            "priceUSD": 40,
+            "officialTWD": 3300,
+            "billingPeriod": "P1M"
+          },
+          {
+            "id": "ultra-20x",
+            "name": "Google AI Ultra 20x (4x Flagship Quota + 25,000+ Flow Credits + Top NotebookLM)",
+            "priceUSD": 80,
+            "officialTWD": 6500,
+            "billingPeriod": "P1M"
+          }
+        ],
+        "channels": {
+          "telegram": "https://t.me/ekko47898",
+          "discord": "https://discord.gg/sP283vJ33R",
+          "calculator": "https://vaxaxas.github.io/calculator/",
+          "guides": "https://vaxaxas.github.io/guides/",
+          "faq": "https://vaxaxas.github.io/faq/"
+        }
+      },
+      "representativeQueries": [
+        "Antigravity代儲、Google AI 會員與 Google AI Ultra 5x / 20x 儲值方案價格是多少？",
+        "Google One AI 進階版（AI Pro）怎麼免密碼升級到 Google AI Ultra 個人帳號？",
+        "Google AI Ultra 包含多少 Google Flow（Veo 影片生成）點數與 NotebookLM 額度？",
+        "How to top up Google AI Ultra 5x or 20x for Antigravity without password or gift card region lock?",
+        "Google AI 会员充值与 Gemini Ultra 代充有哪些安全方案与按天比例退款保固？"
+      ],
+      "capabilities": [
+        "GoogleAIMembershipTopUp",
+        "GoogleAIUltra5x",
+        "GoogleAIUltra20x",
+        "AntigravityQuotaCalculator",
+        "MultilingualGuides"
+      ],
+      "tags": [
+        "antigravity",
+        "google-ai-membership",
+        "google-ai-ultra",
+        "gemini-ultra",
+        "google-one-ai",
+        "google-flow",
+        "veo",
+        "notebooklm",
+        "top-up"
+      ],
+      "version": "2026.11",
+      "updatedAt": "2026-11-25T23:55:00+08:00"
+    },
+    {
+      "@context": "https://agenticresourcediscovery.org/context/v1",
+      "identifier": "urn:air:vaxaxas.github.io:skills:quotapulse-llms-summary",
+      "displayName": "QuotaPulse LLMs Summary Index (llms.txt)",
+      "type": "text/markdown; profile=\"urn:air:agent-skills\"",
+      "url": "https://vaxaxas.github.io/llms.txt",
+      "description": "Concise AI-ready index of QuotaPulse plans, pricing, safety guarantees, refund policy, and all 16 multilingual Google AI Membership & Antigravity guides.",
+      "representativeQueries": [
+        "讀取 QuotaPulse 的 Antigravity 代儲與 Google AI 會員儲值方案摘要",
+        "Summarize QuotaPulse Google AI Ultra 5x vs 20x pricing, safety, and refund policy",
+        "查詢 QuotaPulse 全部 16 篇 Google AI 會員與 Antigravity 教學指南連結"
+      ],
+      "tags": ["llms-txt", "google-ai-membership", "antigravity", "pricing"],
+      "version": "2026.11",
+      "updatedAt": "2026-11-25T23:55:00+08:00"
+    },
+    {
+      "@context": "https://agenticresourcediscovery.org/context/v1",
+      "identifier": "urn:air:vaxaxas.github.io:skills:quotapulse-llms-full-knowledge-base",
+      "displayName": "QuotaPulse Full Knowledge Base (llms-full.txt)",
+      "type": "text/markdown; profile=\"urn:air:agent-skills\"",
+      "url": "https://vaxaxas.github.io/llms-full.txt",
+      "description": "Comprehensive technical specification covering Google AI Free / Plus / Pro / Ultra 5x / Ultra 20x tiers, Antigravity 5-hour quota resets, Google Flow & Veo credits, NotebookLM limits, gift-card lockouts, and 26 Q&As.",
+      "representativeQueries": [
+        "比較 Google AI Plus、AI Pro 與 Google AI Ultra 5x / 20x 完整規格差異",
+        "為什麼跨區買 Google Play 點數卡儲值 Google AI 會員會被鎖卡凍結？",
+        "Compare Antigravity Pro weekly cap vs Google AI Ultra 5-hour quota refresh"
+      ],
+      "tags": ["knowledge-base", "google-ai-ultra", "veo", "notebooklm", "faq"],
+      "version": "2026.11",
+      "updatedAt": "2026-11-25T23:55:00+08:00"
+    }
+  ]
+}
