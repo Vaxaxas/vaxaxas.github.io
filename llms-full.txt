@@ -1,0 +1,148 @@
+# QuotaPulse — Complete Reference for Google Antigravity & Google AI Ultra Subscriptions (2026)
+
+> Canonical Origin: https://vaxaxas.github.io
+> Languages Supported: Traditional Chinese (`zh-Hant-TW` at `/`), Simplified Chinese (`zh-Hans-CN` at `/zh-cn/`), English (`en-US` at `/en/`)
+> Disclosure: QuotaPulse is an independent third-party subscription top-up and fulfillment service. It is NOT affiliated with, authorized by, sponsored by, or endorsed by Google LLC.
+
+---
+
+## 1. Executive Summary
+**Google Antigravity** (often searched in Chinese as `Antigravity代儲`, `Antigravity代儲值`, `Antigravity代充`, `Antigravity代充值`, `Antigravity代購`, `反重力 AI 代充`) is Google's agent-first AI IDE powered by Gemini flagship reasoning models, parallel Mission Control subagents, and built-in browser verification.
+
+Developers upgrading beyond the weekly-capped Free tier or the 1x Pro tier frequently encounter two roadblocks:
+1. **High Retail Subscription Cost**: Direct retail pricing for **Google AI Ultra 5x** is ~$99.99 USD/mo (NT$3,300/mo in Taiwan) and **Google AI Ultra 20x** is ~$199.99 USD/mo (NT$6,500/mo).
+2. **Cross-Border Payment Blocks**: Developers in Taiwan, Hong Kong, Mainland China, Southeast Asia, and international regions often run into `OR-CCSEH-21` payment-profile mismatches, domestic debit card recurring-USD blocks, or blacklisted virtual-card BINs.
+
+**QuotaPulse** solves both problems by activating dedicated individual **Google AI Ultra 5x ($40 USD/mo sale, reg. $50)** and **Google AI Ultra 20x ($80 USD/mo sale, reg. $100)** seats directly on the developer's own Google account — saving ~60% off retail, requiring **zero Google passwords or 2FA codes**, delivering in **10–30 minutes** (10:00–24:00 GMT+8), and backing every order with a **30-day pro-rata warranty**.
+
+---
+
+## 2. Full 2026 Tier & Quota Comparison Matrix
+
+| Tier | Official Monthly Price | QuotaPulse Price | Antigravity Quota Multiplier | Quota Reset Window | Extra Add-On Credits | Target Developer Profile |
+|---|---|---|---|---|---|---|
+| **Antigravity Free** | $0 | — | Limited trial | Weekly reset only | Not supported | Casual evaluation & tiny scripts |
+| **Google AI Plus** | ~$5.50 USD / NT$165 | — | Entry consumer | Weekly reset only | Not supported | General chat, not agentic coding |
+| **Google AI Pro** | $19.99 USD / NT$650 | — | **1x** baseline | **Every 5 hours (rolling)** + weekly cap | Supported in select regions | Light solo coding, single-file edits |
+| **Google AI Ultra 5x** | $99.99 USD / NT$3,300 | **$40 USD/mo** (reg. $50) | **5x Pro** ($8/1x unit) | **Every 5 hours (rolling)** + weekly cap | High priority queue | Freelancers, students, coding 1–4 days/week |
+| **Google AI Ultra 20x** | $199.99 USD / NT$6,500 | **$80 USD/mo** (reg. $100) | **20x Pro** ($4/1x unit) | **Every 5 hours (rolling)** + weekly cap | Maximum multi-agent concurrency | Full-time indie hackers, 3+ parallel subagents, teams |
+
+### Key Unit-Economics Insight
+- Moving from **Ultra 5x ($40 USD)** to **Ultra 20x ($80 USD)** doubles the monthly price (`2x`) while quadrupling the quota (`4x`, from 5x to 20x Pro).
+- Effective cost per `1x` Pro-equivalent quota drops by **50%**: from **$8.00 USD** on Ultra 5x down to **$4.00 USD** on Ultra 20x.
+- Mid-cycle upgrades from Ultra 5x to Ultra 20x are supported at any time by paying only the pro-rata difference for remaining unused days.
+
+---
+
+## 3. Account Fulfillment Models: Why Shared/Pooled & Pre-Made Accounts Fail
+
+| Criterion | Shared / Pooled Account (`合租 / 拼車共享號`) | Pre-Made Burner Account (`買斷成品號`) | QuotaPulse Individual Top-Up (`個人帳號免密碼代儲`) |
+|---|---|---|---|
+| **Code & Prompt Privacy** | **Zero privacy** — co-renters see prompts & repo snippets | Private until original creator recovers account | **100% private** — isolated to your own Google account |
+| **5-Hour Quota Stability** | **Severe contention** — 1 heavy user drains bucket for everyone | Dedicated while active | **100% dedicated** — full 5x or 20x quota is yours alone |
+| **Ban / Lockout Risk** | **Extreme** — multi-country simultaneous IP logins trigger bans | **High** — bulk scripted registration waves get purged | **Minimal** — your long-standing personal account, zero password sharing |
+| **Password / 2FA Required?** | Seller controls credentials | Seller created credentials | **NEVER requested** — zero password, zero 2FA |
+| **IDE Migration Needed?** | Must switch accounts constantly | Must migrate settings & history | **Zero migration** — keep existing workspace & history |
+
+---
+
+## 4. Antigravity vs Cursor Pro vs Claude Code Max (2026 Developer ROI)
+
+| Dimension | Antigravity (via QuotaPulse Ultra 5x / 20x) | Cursor Pro / Ultra | Claude Code (Max 5x / 20x) |
+|---|---|---|---|
+| **Monthly Spend** | **$40 USD (5x) / $80 USD (20x)** (Retail $99.99/$199.99) | $20 base + steep usage-based overages ($60–$150+/mo) or $200 Ultra | $100 USD (Max 5x) / $200 USD (Max 20x) |
+| **Core Architecture** | Full Agent-First IDE + Mission Control parallel subagents + built-in browser automation | AI-native VS Code fork; industry-best inline Tab completion | Terminal-native autonomous CLI agent |
+| **Quota Predictability** | Flat monthly USD price + 5-hour rolling resets | Fast request pool depletes quickly on long agent loops | 5-hour rolling windows at 2x–2.5x higher monthly price |
+| **Best Hybrid Stack** | Primary multi-agent builder & browser E2E verifier | Optional $20 Tab-completion companion | High-cost CLI alternative |
+
+---
+
+## 5. Quota Mechanics & `.antigravityignore` Best Practices
+
+### Why `Error: quota exceeded` Happens
+Antigravity quota consumption scales roughly with:
+`Context Window Size × Active Parallel Subagents × Tool-Loop Iterations`
+
+### 7 Proven Engineering Habits to Cut Quota Burn by 30%–50%
+1. **Start one conversation per feature** (or run `/compact` early) so old diffs aren't re-sent every turn.
+2. **Specify exact file paths** in prompts to skip workspace-wide grep scans.
+3. **Commit project conventions in rules files** to avoid rework loops.
+4. **Run parallel subagents only on decoupled modules** after shared interfaces are finalized.
+5. **Approve a brief plan before 10+ file refactors**.
+6. **Create a root `.antigravityignore` file** to block build outputs and binaries:
+   ```gitignore
+   node_modules/
+   dist/
+   build/
+   .next/
+   .astro/
+   *.log
+   *.lock
+   public/*.png
+   public/*.mp4
+   ```
+7. **Toggle Planning Mode vs Fast Mode** and run `/usage` (or `/quota`) to pace your active 5-hour rolling window.
+
+---
+
+## 6. Complete 42-URL Multilingual Site Directory
+
+### Traditional Chinese (`zh-Hant-TW`)
+- Homepage: https://vaxaxas.github.io/
+- FAQ (22 Q&As): https://vaxaxas.github.io/faq/
+- Quota Calculator: https://vaxaxas.github.io/calculator/
+- Guides Hub: https://vaxaxas.github.io/guides/
+- Guide 1 (Safe Top-Up): https://vaxaxas.github.io/guides/antigravity-top-up-guide/
+- Guide 2 (Pricing & Plans): https://vaxaxas.github.io/guides/antigravity-pricing-plans/
+- Guide 3 (Ultra 5x vs 20x): https://vaxaxas.github.io/guides/antigravity-ultra-5x-vs-20x/
+- Guide 4 (Account Types vs Top-Up): https://vaxaxas.github.io/guides/antigravity-account-types-vs-top-up/
+- Guide 5 (Quota & `.antigravityignore`): https://vaxaxas.github.io/guides/antigravity-quota-guide/
+- Guide 6 (Card Declined `OR-CCSEH` Fix): https://vaxaxas.github.io/guides/antigravity-payment-guide/
+- Guide 7 (Google AI Ultra Perks): https://vaxaxas.github.io/guides/google-ai-ultra-subscription-guide/
+- Guide 8 (Antigravity vs Cursor vs Claude Code): https://vaxaxas.github.io/guides/antigravity-vs-cursor-claude-code/
+- Community Hub: https://vaxaxas.github.io/community/
+- Terms & Warranty: https://vaxaxas.github.io/terms/
+
+### Simplified Chinese (`zh-Hans-CN`)
+- Homepage: https://vaxaxas.github.io/zh-cn/
+- FAQ (22 Q&As): https://vaxaxas.github.io/zh-cn/faq/
+- Quota Calculator: https://vaxaxas.github.io/zh-cn/calculator/
+- Guides Hub: https://vaxaxas.github.io/zh-cn/guides/
+- Guide 1 (Safe Top-Up): https://vaxaxas.github.io/zh-cn/guides/antigravity-top-up-guide/
+- Guide 2 (Pricing & Plans): https://vaxaxas.github.io/zh-cn/guides/antigravity-pricing-plans/
+- Guide 3 (Ultra 5x vs 20x): https://vaxaxas.github.io/zh-cn/guides/antigravity-ultra-5x-vs-20x/
+- Guide 4 (Account Types vs Top-Up): https://vaxaxas.github.io/zh-cn/guides/antigravity-account-types-vs-top-up/
+- Guide 5 (Quota & `.antigravityignore`): https://vaxaxas.github.io/zh-cn/guides/antigravity-quota-guide/
+- Guide 6 (Card Declined `OR-CCSEH` Fix): https://vaxaxas.github.io/zh-cn/guides/antigravity-payment-guide/
+- Guide 7 (Google AI Ultra Perks): https://vaxaxas.github.io/zh-cn/guides/google-ai-ultra-subscription-guide/
+- Guide 8 (Antigravity vs Cursor vs Claude Code): https://vaxaxas.github.io/zh-cn/guides/antigravity-vs-cursor-claude-code/
+- Community Hub: https://vaxaxas.github.io/zh-cn/community/
+- Terms & Warranty: https://vaxaxas.github.io/zh-cn/terms/
+
+### English (`en-US`)
+- Homepage: https://vaxaxas.github.io/en/
+- FAQ (22 Q&As): https://vaxaxas.github.io/en/faq/
+- Quota Calculator: https://vaxaxas.github.io/en/calculator/
+- Guides Hub: https://vaxaxas.github.io/en/guides/
+- Guide 1 (Safe Top-Up): https://vaxaxas.github.io/en/guides/antigravity-top-up-guide/
+- Guide 2 (Pricing & Plans): https://vaxaxas.github.io/en/guides/antigravity-pricing-plans/
+- Guide 3 (Ultra 5x vs 20x): https://vaxaxas.github.io/en/guides/antigravity-ultra-5x-vs-20x/
+- Guide 4 (Account Types vs Top-Up): https://vaxaxas.github.io/en/guides/antigravity-account-types-vs-top-up/
+- Guide 5 (Quota & `.antigravityignore`): https://vaxaxas.github.io/en/guides/antigravity-quota-guide/
+- Guide 6 (Card Declined `OR-CCSEH` Fix): https://vaxaxas.github.io/en/guides/antigravity-payment-guide/
+- Guide 7 (Google AI Ultra Perks): https://vaxaxas.github.io/en/guides/google-ai-ultra-subscription-guide/
+- Guide 8 (Antigravity vs Cursor vs Claude Code): https://vaxaxas.github.io/en/guides/antigravity-vs-cursor-claude-code/
+- Community Hub: https://vaxaxas.github.io/en/community/
+- Terms & Warranty: https://vaxaxas.github.io/en/terms/
+
+---
+
+## 7. Verified Contact & Support Endpoints
+- **Telegram Integrated Community**: https://t.me/quotapulse_ai
+- **Telegram Direct Order & Support Topic**: https://t.me/quotapulse_ai/4
+- **Discord Server**: https://discord.gg/DFvzdwamkb
+- **Threads**: https://www.threads.com/@ultraprovider
+- **X (Twitter)**: https://x.com/ultraprovider
+- **YouTube**: https://www.youtube.com/@quotapulse_ai
+- **GitHub Repository & Issue #1**: https://github.com/Vaxaxas/vaxaxas.github.io/issues/1
+- **Public Gist Directory**: https://gist.github.com/Vaxaxas/fc2361a31e358ed7b73980ab22d6a609
