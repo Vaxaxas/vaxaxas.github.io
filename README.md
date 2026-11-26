@@ -1,6 +1,6 @@
 # Antigravity代儲・Google Ultra 儲值・全球多地區 Google AI 訂閱與知識庫（QuotaPulse）
 
-專為台灣、香港澳門、中國大陸、新加坡馬來西亞、日本、韓國與全球開發者、**Vibe Coding（氛圍編程）玩家**、一人公司／Indie Hacker、AI 影音創作者與研究人員打造的 **Google Ultra 儲值（Google AI Ultra 代儲／Google One Ultra 儲值，5x $40・20x $80）、Gemini Ultra 代購與 Antigravity代儲充入個人帳號獨享開通服務**。直充你本人的個人 Google 帳號一次解鎖六大主號特權：**Antigravity 每 5 小時刷新多代理配額、Gemini Deep Think、Google Flow（10,000–25,000+ 點與完整 Veo 影片）、NotebookLM（每日最高 5,000 查）、20TB/30TB Google One 雲端空間與 YouTube Premium 個人權益（依地區條款）**；免外幣卡、避開禮物卡鎖區與家庭組閹割風險、**全程絕不索取密碼、2FA 或瀏覽器 Cookie**，平均 **10–30 分鐘開通**，享公開透明的 **30/90/180 天保固（非個人因素依照未使用到的天數比例退款；個人因素取消不予退款）**。
+專為台灣、香港澳門、中國大陸、新加坡馬來西亞、日本、韓國與全球開發者、**Vibe Coding（氛圍編程）玩家**、一人公司／Indie Hacker、AI 影音創作者與研究人員打造的 **Google Ultra 儲值（Google AI Ultra 代儲／Google One Ultra 儲值，限時特價 5x $69・20x $138 USD，原價 $99・$199）、Gemini Ultra 代購與 Antigravity代儲充入個人帳號獨享開通服務**。直充你本人的個人 Google 帳號一次解鎖六大主號特權：**Antigravity 每 5 小時刷新多代理配額、Gemini Deep Think、Google Flow（10,000–25,000+ 點與完整 Veo 影片）、NotebookLM（每日最高 5,000 查）、20TB/30TB Google One 雲端空間與 YouTube Premium 個人權益（依地區條款）**；免外幣卡、避開禮物卡鎖區與家庭組閹割風險、**全程絕不索取密碼、2FA 或瀏覽器 Cookie**，平均 **10–30 分鐘開通**，享公開透明的 **30/90/180 天保固（非個人因素依照未使用到的天數比例退款；個人因素取消不予退款）**。
 
 ## 🌍 全球 17 語系與 65+ 國專屬入口（118 頁雙向 Hreflang 完整索引）
 - 🇹🇼 **台灣繁體中文首頁**：[https://vaxaxas.github.io/](https://vaxaxas.github.io/) · [Google Ultra 儲值專區](https://vaxaxas.github.io/google-ultra-top-up/)
@@ -9,8 +9,8 @@
 - 🇸🇬🇲🇾 **新加坡＆馬來西亞雙語專區（SGD / MYR 試算）**：[中文專區 (`zh-Hans-SG`)](https://vaxaxas.github.io/sg-my/) · [English Hub (`en-SG`)](https://vaxaxas.github.io/en/sg-my/)
 - 🇯🇵 **日本向け専用ハブ（`ja-JP`・JPY 試算）**：[https://vaxaxas.github.io/ja/](https://vaxaxas.github.io/ja/) · [Google AI Ultra 課金代行](https://vaxaxas.github.io/ja/google-ultra-top-up/)
 - 🇰🇷 **한국 전용 허브（`ko-KR`・KRW 계산기）**：[https://vaxaxas.github.io/ko/](https://vaxaxas.github.io/ko/) · [구글 AI 울트라 대리결제](https://vaxaxas.github.io/ko/google-ultra-top-up/)
-- 🇮🇳 **India Edition (`en-IN` · INR ₹6,500 / ₹19,500 vs $40 / $80)**：[https://vaxaxas.github.io/in/](https://vaxaxas.github.io/in/)
-- 🇬🇧 **United Kingdom & Ireland (`en-GB` · GBP £79.99 / £189.99 vs $40 / $80)**：[https://vaxaxas.github.io/uk/](https://vaxaxas.github.io/uk/)
+- 🇮🇳 **India Edition (`en-IN` · INR ₹6,500 / ₹19,500 vs $69 / $138)**：[https://vaxaxas.github.io/in/](https://vaxaxas.github.io/in/)
+- 🇬🇧 **United Kingdom & Ireland (`en-GB` · GBP £79.99 / £189.99 vs $69 / $138)**：[https://vaxaxas.github.io/uk/](https://vaxaxas.github.io/uk/)
 - 🇩🇪🇦🇹🇨🇭 **Deutsch DACH (`de-DE` · Google Antigravity Aufladen & AI Ultra Abo)**：[https://vaxaxas.github.io/de/](https://vaxaxas.github.io/de/)
 - 🇫🇷🇨🇦🇧🇪 **Français (`fr-FR` · Recharger Google Antigravity & AI Ultra Moins Cher)**：[https://vaxaxas.github.io/fr/](https://vaxaxas.github.io/fr/)
 - 🇪🇸🇲🇽 **Español España y LatAm (`es-ES` / `es-MX` · Recarga Google Antigravity)**：[https://vaxaxas.github.io/es/](https://vaxaxas.github.io/es/)
@@ -29,28 +29,28 @@
 
 | 地區 / 幣別 | 官方 Ultra 5x (20TB) | 官方 Ultra 20x (30TB) | QuotaPulse 限時特價（原價） | 專屬頁連結 |
 |---|---|---|---|---|
-| **台灣 (TWD)** | NT$3,300 / 月 | NT$6,500 / 月 | **$40 / $80 USD** ($50 / $100) | [台灣首頁](https://vaxaxas.github.io/) |
-| **香港＆澳門 (HKD)** | HK$799 / 月 | HK$1,588 / 月 | **$40 (~HK$312) / $80 (~HK$624)** | [香港專區](https://vaxaxas.github.io/hk/) |
-| **日本 (JPY 税込)** | ¥14,500 / 月 | ¥32,000 / 月 | **$40 (~¥6,360) / $80 (~¥12,720)** | [日本語](https://vaxaxas.github.io/ja/) |
-| **南韓 (KRW)** | ₩119,000 / 月 | ₩300,000 / 月 | **$40 (~₩53,720) / $80 (~₩107,440)** | [한국어](https://vaxaxas.github.io/ko/) |
-| **新加坡 (SGD)** | S$139.99 / 月 | S$289.98 / 月 | **$40 (~S$53.60) / $80 (~S$107.20)** | [SG/MY](https://vaxaxas.github.io/sg-my/) |
-| **馬來西亞 (MYR)** | RM 429.99 / 月 | RM 979.90 / 月 | **$40 (~RM 178) / $80 (~RM 356)** | [SG/MY EN](https://vaxaxas.github.io/en/sg-my/) |
-| **美國 / 英國 / 歐盟 / 加拿大 / 澳洲** | $99.99 / £79.99 / €99.99 / CA$139.99 / A$149.99 | $199.99 / £189.99 / €219.99 / CA$279.99 / A$329.99 | **$40 / $80 USD** ($50 / $100) | [Global Regions](https://vaxaxas.github.io/en/regions/) |
+| **台灣 (TWD)** | NT$3,300 / 月 | NT$6,500 / 月 | **$69 / $138 USD** ($99 / $199) | [台灣首頁](https://vaxaxas.github.io/) |
+| **香港＆澳門 (HKD)** | HK$799 / 月 | HK$1,588 / 月 | **$69 (~HK$538) / $138 (~HK$1,076)** | [香港專區](https://vaxaxas.github.io/hk/) |
+| **日本 (JPY 税込)** | ¥14,500 / 月 | ¥32,000 / 月 | **$69 (~¥10,971) / $138 (~¥21,942)** | [日本語](https://vaxaxas.github.io/ja/) |
+| **南韓 (KRW)** | ₩119,000 / 月 | ₩300,000 / 月 | **$69 (~₩92,667) / $138 (~₩185,334)** | [한국어](https://vaxaxas.github.io/ko/) |
+| **新加坡 (SGD)** | S$139.99 / 月 | S$289.98 / 月 | **$69 (~S$92.46) / $138 (~S$184.92)** | [SG/MY](https://vaxaxas.github.io/sg-my/) |
+| **馬來西亞 (MYR)** | RM 429.99 / 月 | RM 979.90 / 月 | **$69 (~RM 307) / $138 (~RM 614)** | [SG/MY EN](https://vaxaxas.github.io/en/sg-my/) |
+| **美國 / 英國 / 歐盟 / 加拿大 / 澳洲** | $99.99 / £79.99 / €99.99 / CA$139.99 / A$149.99 | $199.99 / £189.99 / €219.99 / CA$279.99 / A$329.99 | **$69 / $138 USD** ($99 / $199) | [Global Regions](https://vaxaxas.github.io/en/regions/) |
 
 ---
 
 ## 📖 二十四大主題權威教學指南（繁中 / 简中 / EN 共 72 篇）
 
 ### 💎 Google Ultra 儲值、隱藏福利與頂規 AI 對決
-1. **台灣 Google Ultra 儲值全攻略**：[2026 Google Ultra 儲值與代儲完整攻略：台灣價格比較（5x $40 / 20x $80）、免密碼直充與 8591／合租避坑](https://vaxaxas.github.io/guides/google-ultra-top-up-taiwan-guide/) · [简中](https://vaxaxas.github.io/zh-cn/guides/google-ultra-top-up-taiwan-guide/) · [EN](https://vaxaxas.github.io/en/guides/google-ultra-top-up-taiwan-guide/)
-2. **三大頂規 AI 終極對決**：[Google Ultra（$40/$80）vs ChatGPT Pro（$200）vs Claude Max（$100/$200）儲值哪個最划算？](https://vaxaxas.github.io/guides/google-ultra-vs-chatgpt-pro-claude-max/) · [简中](https://vaxaxas.github.io/zh-cn/guides/google-ultra-vs-chatgpt-pro-claude-max/) · [EN](https://vaxaxas.github.io/en/guides/google-ultra-vs-chatgpt-pro-claude-max/)
+1. **台灣 Google Ultra 儲值全攻略**：[2026 Google Ultra 儲值與代儲完整攻略：台灣價格比較（5x $69 / 20x $138）、免密碼直充與 8591／合租避坑](https://vaxaxas.github.io/guides/google-ultra-top-up-taiwan-guide/) · [简中](https://vaxaxas.github.io/zh-cn/guides/google-ultra-top-up-taiwan-guide/) · [EN](https://vaxaxas.github.io/en/guides/google-ultra-top-up-taiwan-guide/)
+2. **三大頂規 AI 終極對決**：[Google Ultra（$69/$138）vs ChatGPT Pro（$200）vs Claude Max（$100/$200）儲值哪個最划算？](https://vaxaxas.github.io/guides/google-ultra-vs-chatgpt-pro-claude-max/) · [简中](https://vaxaxas.github.io/zh-cn/guides/google-ultra-vs-chatgpt-pro-claude-max/) · [EN](https://vaxaxas.github.io/en/guides/google-ultra-vs-chatgpt-pro-claude-max/)
 3. **主號隱藏福利與家庭組揭秘**：[Google Ultra 儲值隱藏福利全公開：20TB/30TB、YouTube Premium、Project Mariner 與家庭組限制](https://vaxaxas.github.io/guides/google-ultra-youtube-premium-30tb-mariner-perks/) · [简中](https://vaxaxas.github.io/zh-cn/guides/google-ultra-youtube-premium-30tb-mariner-perks/) · [EN](https://vaxaxas.github.io/en/guides/google-ultra-youtube-premium-30tb-mariner-perks/)
 4. **續儲、季付半年付與補差價升級**：[Google Ultra 續儲、季付半年付全程保固與 5x 按天補差價升 20x 教學（零自動扣款）](https://vaxaxas.github.io/guides/google-ultra-renewal-upgrade-prepaid-guide/) · [简中](https://vaxaxas.github.io/zh-cn/guides/google-ultra-renewal-upgrade-prepaid-guide/) · [EN](https://vaxaxas.github.io/en/guides/google-ultra-renewal-upgrade-prepaid-guide/)
 
 ### ⚡ Vibe Coding 氛圍編程與 Google AI 訂閱實戰
 5. **Vibe Coding × Antigravity 實戰**：[2026 Vibe Coding 完整實戰指南：如何用 Google Antigravity 從零打造網站與 SaaS](https://vaxaxas.github.io/guides/vibe-coding-antigravity-guide/) · [简中](https://vaxaxas.github.io/zh-cn/guides/vibe-coding-antigravity-guide/) · [EN](https://vaxaxas.github.io/en/guides/vibe-coding-antigravity-guide/)
 6. **五大 Vibe Coding 工具費用大評比**：[Antigravity vs Cursor vs Lovable vs Windsurf vs Claude Code 真實月支出與雙持攻略](https://vaxaxas.github.io/guides/vibe-coding-tools-pricing-comparison/) · [简中](https://vaxaxas.github.io/zh-cn/guides/vibe-coding-tools-pricing-comparison/) · [EN](https://vaxaxas.github.io/en/guides/vibe-coding-tools-pricing-comparison/)
-7. **台灣 Google AI 與 Antigravity 訂閱教學**：[Antigravity 與 Google AI 訂閱完整教學（2026 台灣最新）：官方月費、免費版與省 60% 攻略](https://vaxaxas.github.io/guides/antigravity-google-subscription-taiwan-guide/) · [简中](https://vaxaxas.github.io/zh-cn/guides/antigravity-google-subscription-taiwan-guide/) · [EN](https://vaxaxas.github.io/en/guides/antigravity-google-subscription-taiwan-guide/)
+7. **台灣 Google AI 與 Antigravity 訂閱教學**：[Antigravity 與 Google AI 訂閱完整教學（2026 台灣最新）：官方月費、免費版與省逾 30% 攻略](https://vaxaxas.github.io/guides/antigravity-google-subscription-taiwan-guide/) · [简中](https://vaxaxas.github.io/zh-cn/guides/antigravity-google-subscription-taiwan-guide/) · [EN](https://vaxaxas.github.io/en/guides/antigravity-google-subscription-taiwan-guide/)
 8. **一人公司 4 合 1 訂閱神裝**：[一人公司與 Indie Hacker 的 Google AI 訂閱神裝：Vibe Coding＋Veo 影片＋NotebookLM](https://vaxaxas.github.io/guides/vibe-coding-solo-founder-google-ai-stack/) · [简中](https://vaxaxas.github.io/zh-cn/guides/vibe-coding-solo-founder-google-ai-stack/) · [EN](https://vaxaxas.github.io/en/guides/vibe-coding-solo-founder-google-ai-stack/)
 
 ### 🛡️ Antigravity 額度優化、付款排錯與避坑全庫（第 9–24 篇）

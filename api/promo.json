@@ -13,16 +13,16 @@
       "name": "Ultra 5x",
       "multiplier": 5,
       "currency": "USD",
-      "regularPrice": 50,
-      "promoPrice": 40
+      "regularPrice": 99,
+      "promoPrice": 69
     },
     "ultra-20x": {
       "id": "ultra-20x",
       "name": "Ultra 20x",
       "multiplier": 20,
       "currency": "USD",
-      "regularPrice": 100,
-      "promoPrice": 80
+      "regularPrice": 199,
+      "promoPrice": 138
     }
   }
 }
