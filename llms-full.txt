@@ -1,89 +1,82 @@
-# QuotaPulse — Complete Technical Reference for Google Ultra Top-Ups, Google AI Subscriptions, Antigravity & Vibe Coding (2026)
+# QuotaPulse — Complete Global Technical Reference for Google Ultra Top-Ups, Antigravity & Vibe Coding (2026)
 
 > Canonical Origin: https://vaxaxas.github.io
-> Languages Supported: Traditional Chinese (`zh-Hant-TW` at `/`), Simplified Chinese (`zh-Hans-CN` at `/zh-cn/`), English (`en-US` at `/en/`)
-> Feeds & Manifests: Sitemap `https://vaxaxas.github.io/sitemap.xml` (99 URLs) | RSS `https://vaxaxas.github.io/rss.xml` | ARD `https://vaxaxas.github.io/.well-known/ard.json`
+> Languages & Regional Hubs Supported: Traditional Chinese Taiwan (`zh-Hant-TW` at `/`), Hong Kong & Macau (`zh-Hant-HK` at `/hk/`), Simplified Chinese Mainland (`zh-Hans-CN` at `/zh-cn/`), Singapore & Malaysia Bilingual (`zh-Hans-SG` at `/sg-my/`, `en-SG` at `/en/sg-my/`), Japanese (`ja-JP` at `/ja/` & `/ja/google-ultra-top-up/`), Korean (`ko-KR` at `/ko/` & `/ko/google-ultra-top-up/`), Global English (`en-US` / `en` at `/en/`), and Trilingual Global Regions Directory (`/regions/`, `/zh-cn/regions/`, `/en/regions/`)
+> Feeds & Manifests: Sitemap `https://vaxaxas.github.io/sitemap.xml` (109 URLs) | Text Sitemap `https://vaxaxas.github.io/sitemap.txt` | RSS `https://vaxaxas.github.io/rss.xml` | ARD `https://vaxaxas.github.io/.well-known/ard.json`
 > Disclosure: QuotaPulse is an independent third-party subscription top-up and fulfillment service. It is NOT affiliated with, authorized by, sponsored by, or endorsed by Google LLC.
 
 ---
 
-## 1. Executive Summary: Google Ultra Top-Up (`Google Ultra 儲值`) × Antigravity × Vibe Coding
-**Google Ultra** (officially **Google AI Ultra** under Google One; widely searched as `Google Ultra 儲值`, `google ultra儲值`, `Google Ultra 代儲`, `Google One Ultra 儲值`, `Google AI Ultra 儲值`, `Gemini Ultra 代儲`, `Antigravity代儲`) is Google's highest-tier flagship AI and cloud ecosystem subscription, offered in **5x** (NT$3,300 / $99.99 USD/mo retail) and **20x** (NT$6,500 / $199.99 USD/mo retail) tiers.
+## 1. Executive Summary: Global Google Ultra Top-Up × Google Antigravity × Vibe Coding
+**Google Ultra** (officially **Google AI Ultra** under Google One; widely searched as `Antigravity代儲`, `Google Ultra 儲值`, `Google AI Ultra 香港`, `Google AI Ultra 課金代行`, `구글 AI 울트라 대리결제`, `Google AI Ultra Singapore/Malaysia top up`) is Google's flagship AI and cloud subscription, restructured in 2026 into **two monthly-only tiers** (no official annual Ultra discount):
+- **Google AI Ultra 5x (20 TB)**: $99.99 USD / NT$3,300 / HK$799 / ¥14,500 / ₩119,000 / S$139.99 / RM 429.99 / £79.99 / €99.99 / CA$139.99 / A$149.99 retail.
+- **Google AI Ultra 20x (30 TB)**: $199.99 USD / NT$6,500 / HK$1,588 / ¥32,000 / ₩300,000 / S$289.98 / RM 979.90 / £189.99 / €219.99 / CA$279.99 / A$329.99 retail.
 
-**QuotaPulse** activates 100% private individual seats directly on your own personal Google account at **$40 USD/mo (Ultra 5x, reg. $50)** and **$80 USD/mo (Ultra 20x, reg. $100)** — saving ~60% off retail while preserving full **primary plan-holder benefits**:
+**QuotaPulse** activates 100% private individual seats directly on your own personal Google account at **$40 USD/mo (Ultra 5x, reg. $50)** and **$80 USD/mo (Ultra 20x, reg. $100)** (promotional pricing through 2026-12-08 23:59 GMT+8) — saving ~55%–64% off official local pricing while preserving full **primary plan-holder benefits**:
 1. **Google Antigravity (5x / 20x)**: 5-hour rolling multi-agent quota resets + built-in Browser Subagent QA.
 2. **Gemini Deep Think**: Priority frontier reasoning pool.
 3. **Google Flow & Full Veo**: ~10,000 monthly credits (5x) and 25,000+ monthly credits (20x) for cinematic AI video generation.
 4. **Top-Tier NotebookLM**: Up to 5,000 daily queries and expanded Audio/Video Overviews.
-5. **20 TB (5x) / 30 TB (20x) Google One Cloud Storage**: Plus the ability as primary manager to share cloud storage safely with up to 5 real family members.
+5. **20 TB (5x) / 30 TB (20x) Google One Cloud Storage**: Plus primary manager sharing control across up to 5 real family members.
 6. **YouTube Premium Individual & Project Mariner** (per regional Google terms — **never shared with marketplace family-group sub-members!**).
 
-Every order uses a strict **Four-Zero Safety Protocol** (**Zero Password, Zero 2FA, Zero Session Cookies, Zero Cross-Region Gift Cards**), activates in **10–30 minutes** (10:00–24:00 GMT+8), never auto-charges next month, and carries a **30/90/180-day pro-rata unused-day refund warranty** on non-personal interruptions.
+Every order enforces the **Four-Zero Safety Protocol** (**Zero Password, Zero 2FA, Zero Session Cookies, Zero Cross-Region Gift Cards**), activates in **10–30 minutes** (10:00–24:00 GMT+8), never auto-charges next month, and carries a **30/90/180-day pro-rata unused-day refund warranty** for non-personal interruptions (personal cancellations are non-refundable).
 
 ---
 
-## 2. 2026 Flagship AI Showdown: Google Ultra vs ChatGPT Pro vs Claude Max
+## 2. Regional Geo-Availability & Market Pain Points (Verified Nov 2026)
+- **Hong Kong & Macau (`/hk/`)**: Google One AI Ultra is sold locally at HK$799 / HK$1,588, **but Google Antigravity explicitly excludes Hong Kong & Macau** (`Not Eligible` / `loadCodeAssist` ineligible errors), HK cards charge ~1.95% cross-border fees (CBF), and redeeming US Google Play gift cards from HK triggers `OR-HDT-01` permanent balance locks.
+- **Japan (`/ja/` & `/ja/google-ultra-top-up/`)**: Official monthly retail is ¥14,500 (5x) / ¥32,000 (20x) tax-included with no annual discount, AND **Google One AI Credits one-time top-up & auto-reload are NOT available in Japan** — making Ultra 5x/20x the primary way Japanese developers scale Antigravity & Flow quotas.
+- **South Korea (`/ko/` & `/ko/google-ultra-top-up/`)**: Official monthly retail is ₩119,000 (5x) / ₩300,000 (20x) with no annual discount; QuotaPulse saves ~55%–64% via private personal-account activation (vs risky GamsGo/family-slot resellers that strip YouTube Premium & primary credits).
+- **Singapore & Malaysia (`/sg-my/` & `/en/sg-my/`)**: Official retail is S$139.99 / S$289.98 (SG) and RM 429.99 / RM 979.90 (MY); QuotaPulse eliminates Carousell/Shopee password-sharing, family-group kicks, and abused SheerID student promo bans.
+- **Global Regions & 12-Currency Converter (`/regions/`, `/zh-cn/regions/`, `/en/regions/`)**: Covers TW, HK/MO, CN, SG, MY, JP, KR, US, UK, EU, CA, and AU with an interactive 12-currency savings converter and 4-layer `Not Eligible / Unsupported Region` diagnostic checklist.
+
+---
+
+## 3. 2026 Flagship AI Showdown: Google Ultra vs ChatGPT Pro vs Claude Max
 
 | Dimension | Google Ultra (via QuotaPulse 5x / 20x) | ChatGPT Pro (OpenAI) | Claude Max 5x / 20x (Anthropic) |
 |---|---|---|---|
-| **Monthly Spend** | **$40 USD (5x) / $80 USD (20x)** ($99.99/$199.99 retail) | $200 USD/mo (~NT$6,550) | $100 / $200 USD/mo (~NT$3,280–NT$6,550) |
+| **Monthly Spend** | **$40 USD (5x) / $80 USD (20x)** ($99.99/$199.99 retail) | $200 USD/mo | $100 / $200 USD/mo |
 | **Deep Reasoning** | Gemini Deep Think & frontier pool | o-series Pro reasoning | Claude Opus Extended Thinking |
-| **Agentic Coding IDE** | Antigravity 5x/20x (parallel subagents + Browser QA) | Codex cloud agent | Claude Code CLI |
+| **Agentic Coding IDE** | Google Antigravity 5x/20x (parallel subagents + Browser QA) | Codex cloud agent | Claude Code CLI |
 | **AI Video Generation** | 10,000–25,000+ Flow credits + Full Veo | Basic Sora limits | None |
 | **Cloud Storage & Media** | 20TB / 30TB Google One + YouTube Premium (regional) | 0 GB storage | 0 GB storage |
 
 ---
 
-## 3. Channel Risk Comparison: Why Family-Share Slots, Cookie Sellers & Gift Cards Fail
+## 4. Complete 109-URL Global Multi-Region Site Directory
 
-| Channel | Credential Risk | Primary Perks (YT Premium / Flow) | Drop / Freeze Risk | Refund Warranty |
-|---|---|---|---|---|
-| **QuotaPulse Personal Top-Up** | **Zero** (no password, 2FA, or cookies) | **100% Full Primary Perks** | Minimal | **30/90/180-day pro-rata unused-day refund** |
-| **Shared Family Slots (GamsGo / Shopee)** | Tied to stranger’s family group | **Stripped!** Sub-members lose YT Premium & primary credits | High (group sweeps/kicks) | Often none |
-| **Password / Cookie Sellers (8591 / Xianyu)** | **Extreme** — cookies bypass 2FA into Gmail/Drive | Paid with risky/stolen BINs | Extreme (payment profile bans) | Zero recourse |
-| **Cross-Region Google Play Gift Cards** | Self-redeemed | Frozen before purchase | Very high (demands physical store receipt) | Non-refundable codes |
+### Homepage Regional Cluster (8 Canonical URLs, 14 Reciprocal Hreflang Tags)
+- Taiwan (`zh-Hant-TW`, `zh-Hant`, `x-default`): https://vaxaxas.github.io/
+- Hong Kong & Macau (`zh-Hant-HK`): https://vaxaxas.github.io/hk/
+- Mainland China (`zh-Hans-CN`, `zh-Hans`): https://vaxaxas.github.io/zh-cn/
+- Singapore & Malaysia Chinese (`zh-Hans-SG`): https://vaxaxas.github.io/sg-my/
+- Singapore & Malaysia English (`en-SG`): https://vaxaxas.github.io/en/sg-my/
+- Global English (`en-US`, `en`): https://vaxaxas.github.io/en/
+- Japan (`ja-JP`, `ja`): https://vaxaxas.github.io/ja/
+- South Korea (`ko-KR`, `ko`): https://vaxaxas.github.io/ko/
 
----
+### Google Ultra Top-Up Cluster (5 Canonical URLs, 11 Reciprocal Hreflang Tags)
+- Taiwan (`zh-Hant-TW`, `zh-Hant`, `x-default`): https://vaxaxas.github.io/google-ultra-top-up/
+- Mainland China (`zh-Hans-CN`, `zh-Hans`): https://vaxaxas.github.io/zh-cn/google-ultra-top-up/
+- Global English (`en-US`, `en`): https://vaxaxas.github.io/en/google-ultra-top-up/
+- Japan (`ja-JP`, `ja`): https://vaxaxas.github.io/ja/google-ultra-top-up/
+- South Korea (`ko-KR`, `ko`): https://vaxaxas.github.io/ko/google-ultra-top-up/
 
-## 4. Complete 99-URL Multilingual Site Directory (33 Core Routes × 3 Locales)
+### Global Regions & 12-Currency Directory (3 Canonical URLs)
+- 繁中: https://vaxaxas.github.io/regions/
+- 简中: https://vaxaxas.github.io/zh-cn/regions/
+- English: https://vaxaxas.github.io/en/regions/
 
-### Traditional Chinese (`zh-Hant-TW`)
-- Homepage: https://vaxaxas.github.io/
-- Google Ultra Top-Up & Savings Calculator Hub: https://vaxaxas.github.io/google-ultra-top-up/
-- Vibe Coding × Google AI Subscription Hub: https://vaxaxas.github.io/vibe-coding/
-- Quota Calculator (with Vibe Coding Presets): https://vaxaxas.github.io/calculator/
-- Live In-Web Support Ticket Helpdesk: https://vaxaxas.github.io/support/
-- Community & Anti-Phishing Hub: https://vaxaxas.github.io/community/
-- FAQ Knowledge Base (38 Q&As): https://vaxaxas.github.io/faq/
-- All 24 Guides Hub: https://vaxaxas.github.io/guides/
-- Guide 1–20: `/guides/<slug>/` (Safe Top-Up, Pricing, 5x vs 20x, Account Types, OR-CCSEH Payment, Quota & `.antigravityignore`, Ultra Perks, Antigravity vs Cursor/Claude Code, Not Eligible Fix, Gemini Top-Up, Pro vs Ultra, 5h Reset/Weekly Cap, Google AI Membership Plans, AI Pro vs Ultra Upgrade, Veo/Flow/NotebookLM, Gift Card Locks, Vibe Coding Playbook, Vibe Coding Tools Pricing, Taiwan Google Subscription Guide, Solo Founder Stack)
-- Guide 21 (Taiwan Google Ultra Top-Up Buyer Guide): https://vaxaxas.github.io/guides/google-ultra-top-up-taiwan-guide/
-- Guide 22 (Google Ultra vs ChatGPT Pro vs Claude Max): https://vaxaxas.github.io/guides/google-ultra-vs-chatgpt-pro-claude-max/
-- Guide 23 (Google Ultra Hidden Perks: YT Premium, 30TB & Family Limits): https://vaxaxas.github.io/guides/google-ultra-youtube-premium-30tb-mariner-perks/
-- Guide 24 (Google Ultra Renewals, 3/6M Prepaid & Mid-Month Upgrades): https://vaxaxas.github.io/guides/google-ultra-renewal-upgrade-prepaid-guide/
-- Terms & Pro-Rata Warranty: https://vaxaxas.github.io/terms/
-
-### Simplified Chinese (`zh-Hans-CN`)
-- Homepage: https://vaxaxas.github.io/zh-cn/
-- Google Ultra Top-Up Hub: https://vaxaxas.github.io/zh-cn/google-ultra-top-up/
-- Vibe Coding Hub: https://vaxaxas.github.io/zh-cn/vibe-coding/
-- Quota Calculator: https://vaxaxas.github.io/zh-cn/calculator/
-- Live Support Helpdesk: https://vaxaxas.github.io/zh-cn/support/
-- Community Hub: https://vaxaxas.github.io/zh-cn/community/
-- FAQ Knowledge Base (38 Q&As): https://vaxaxas.github.io/zh-cn/faq/
-- All 24 Guides Hub: https://vaxaxas.github.io/zh-cn/guides/ (plus all 24 `/zh-cn/guides/<slug>/` articles)
-- Terms & Pro-Rata Warranty: https://vaxaxas.github.io/zh-cn/terms/
-
-### English (`en-US`)
-- Homepage: https://vaxaxas.github.io/en/
-- Google Ultra Top-Up Hub: https://vaxaxas.github.io/en/google-ultra-top-up/
-- Vibe Coding Hub: https://vaxaxas.github.io/en/vibe-coding/
-- Quota Calculator: https://vaxaxas.github.io/en/calculator/
-- Live Support Helpdesk: https://vaxaxas.github.io/en/support/
-- Community Hub: https://vaxaxas.github.io/en/community/
-- FAQ Knowledge Base (38 Q&As): https://vaxaxas.github.io/en/faq/
-- All 24 Guides Hub: https://vaxaxas.github.io/en/guides/ (plus all 24 `/en/guides/<slug>/` articles)
-- Terms & Pro-Rata Warranty: https://vaxaxas.github.io/en/terms/
+### Core Trilingual Hubs & 24 Pillar Guides (93 Canonical URLs across `/`, `/zh-cn/`, `/en/`)
+- Vibe Coding Hub: `/vibe-coding/`, `/zh-cn/vibe-coding/`, `/en/vibe-coding/`
+- Quota Calculator: `/calculator/`, `/zh-cn/calculator/`, `/en/calculator/`
+- Live Support Helpdesk: `/support/`, `/zh-cn/support/`, `/en/support/`
+- Community & Anti-Phishing Hub: `/community/`, `/zh-cn/community/`, `/en/community/`
+- FAQ Knowledge Base (38 Q&As): `/faq/`, `/zh-cn/faq/`, `/en/faq/`
+- Guides Hub & All 24 Pillar Articles: `/guides/` + 24 `/guides/<slug>/` articles across `zh-tw`, `zh-cn`, `en` (75 URLs)
+- Terms & Pro-Rata Refund Warranty: `/terms/`, `/zh-cn/terms/`, `/en/terms/`
 
 ---
 

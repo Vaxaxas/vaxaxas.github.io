@@ -3,31 +3,64 @@
     {
       "@context": "https://agenticresourcediscovery.org/context/v1",
       "identifier": "urn:air:vaxaxas.github.io:catalog:quotapulse-google-ai-membership",
-      "displayName": "QuotaPulse — Antigravity代儲・Google Ultra 儲值 & Vibe Coding 5x/20x 個人獨享方案",
+      "displayName": "QuotaPulse — Global Antigravity Top-Up & Google AI Ultra 5x/20x Subscription Hub",
       "type": "application/agent-card+json",
-      "description": "Direct personal-account Google Ultra top-up plans (Google AI Ultra 5x $40/mo & 20x $80/mo), unlocking Google Antigravity, Gemini Deep Think, Google Flow & Veo (10k–25k+ credits), NotebookLM (5,000 queries/day), 20TB/30TB storage, and regional YouTube Premium individual perks — zero password, zero 2FA, zero cookies, zero gift-card locks, with 30/90/180-day pro-rata unused-day refund warranty.",
+      "description": "Direct personal-account Google Ultra top-up plans (Google AI Ultra 5x $40/mo & 20x $80/mo) across 12+ markets (TW, HK, CN, SG, MY, JP, KR, US, UK, EU, CA, AU), unlocking Google Antigravity, Gemini Deep Think, Google Flow & Veo (10k–25k+ credits), NotebookLM (5,000 queries/day), 20TB/30TB storage, and regional YouTube Premium individual perks — zero password, zero 2FA, zero cookies, zero gift-card locks, with 30/90/180-day pro-rata unused-day refund warranty for non-personal issues.",
       "data": {
         "name": "QuotaPulse",
         "url": "https://vaxaxas.github.io/",
-        "locales": ["zh-Hant-TW", "zh-Hans-CN", "en-US"],
+        "locales": ["zh-Hant-TW", "zh-Hant-HK", "zh-Hans-CN", "zh-Hans-SG", "en-US", "en-SG", "ja-JP", "ko-KR"],
+        "canonicalUrlCount": 109,
         "plans": [
           {
             "id": "ultra-5x",
             "name": "Google Ultra 5x (Antigravity 5h Reset + Deep Think + ~10k Flow/Veo + 20TB + YT Premium)",
             "priceUSD": 40,
-            "officialTWD": 3300,
+            "regularPriceUSD": 50,
+            "officialRetail": {
+              "USD": 99.99,
+              "TWD": 3300,
+              "HKD": 799,
+              "JPY": 14500,
+              "KRW": 119000,
+              "SGD": 139.99,
+              "MYR": 429.99,
+              "GBP": 79.99,
+              "EUR": 99.99,
+              "CAD": 139.99,
+              "AUD": 149.99
+            },
             "billingPeriod": "P1M"
           },
           {
             "id": "ultra-20x",
             "name": "Google Ultra 20x (20x Multi-Agent + 25k+ Flow/Veo + 5k/day NotebookLM + 30TB + YT Premium)",
             "priceUSD": 80,
-            "officialTWD": 6500,
+            "regularPriceUSD": 100,
+            "officialRetail": {
+              "USD": 199.99,
+              "TWD": 6500,
+              "HKD": 1588,
+              "JPY": 32000,
+              "KRW": 300000,
+              "SGD": 289.98,
+              "MYR": 979.9,
+              "GBP": 189.99,
+              "EUR": 219.99,
+              "CAD": 279.99,
+              "AUD": 329.99
+            },
             "billingPeriod": "P1M"
           }
         ],
         "channels": {
           "googleUltraHub": "https://vaxaxas.github.io/google-ultra-top-up/",
+          "globalRegions": "https://vaxaxas.github.io/regions/",
+          "hkHub": "https://vaxaxas.github.io/hk/",
+          "sgMyHub": "https://vaxaxas.github.io/sg-my/",
+          "sgMyHubEn": "https://vaxaxas.github.io/en/sg-my/",
+          "jaHub": "https://vaxaxas.github.io/ja/",
+          "koHub": "https://vaxaxas.github.io/ko/",
           "vibeCodingHub": "https://vaxaxas.github.io/vibe-coding/",
           "calculator": "https://vaxaxas.github.io/calculator/",
           "guides": "https://vaxaxas.github.io/guides/",
@@ -39,20 +72,21 @@
         }
       },
       "representativeQueries": [
-        "台灣 Google Ultra 儲值（Google AI Ultra 代儲）多少錢？怎麼免密碼直充個人帳號省 60%？",
-        "為什麼買便宜 Google Ultra 家庭組共享車位沒有 YouTube Premium 跟專屬 Flow 點數？",
-        "Google Ultra ($40/$80) vs ChatGPT Pro ($200) vs Claude Max ($100/$200) 儲值哪個最划算？",
-        "Vibe Coding 推薦訂閱哪個工具？Google Antigravity vs Cursor vs Lovable 費用比較",
-        "How to buy a safe zero-password Google Ultra top-up with 20TB/30TB storage and pro-rata refund warranty?"
+        "台灣 Google Ultra 儲值（Antigravity代儲）多少錢？怎麼免密碼直充個人帳號省 60%？",
+        "香港訂閱 Google AI Ultra 與 Google Antigravity Not Eligible 怎麼解決？",
+        "Google AI Ultra を日本公式 ¥14,500 / ¥32,000 より安く安全に個人アカウントへ課金代行する方法は？",
+        "구글 AI 울트라 한국 공식가(₩119,000 / ₩300,000) 대비 비밀번호 없이 안전하게 대리결제하는 방법은?",
+        "How to buy a safe zero-password Google AI Ultra top-up in Singapore, Malaysia, UK, EU, US, Canada or Australia?"
       ],
       "capabilities": [
         "GoogleUltraTopUp",
+        "GlobalMultiCurrencySavingsConverter",
         "GoogleUltraSavingsCalculator",
         "GoogleAISubscriptionTopUp",
         "VibeCodingStackMatcher",
         "AntigravityQuotaCalculator",
         "LiveSupportTickets",
-        "MultilingualGuides"
+        "MultilingualRegionalHubs"
       ],
       "tags": [
         "google-ultra",
@@ -63,14 +97,16 @@
         "google-ai-ultra",
         "google-one-ultra",
         "gemini-ultra",
-        "google-flow",
-        "veo",
-        "notebooklm",
-        "youtube-premium",
+        "japan",
+        "korea",
+        "hong-kong",
+        "singapore",
+        "malaysia",
+        "global-regions",
         "top-up"
       ],
-      "version": "2026.11.3",
-      "updatedAt": "2026-11-26T16:00:00+08:00"
+      "version": "2026.11.4",
+      "updatedAt": "2026-11-26T17:15:00+08:00"
     },
     {
       "@context": "https://agenticresourcediscovery.org/context/v1",
@@ -78,15 +114,15 @@
       "displayName": "QuotaPulse LLMs Summary Index (llms.txt)",
       "type": "text/markdown; profile=\"urn:air:agent-skills\"",
       "url": "https://vaxaxas.github.io/llms.txt",
-      "description": "Concise AI-ready index of QuotaPulse Google Ultra top-up plans, Vibe Coding comparisons, safety guarantees, pro-rata refund policy, and all 24 multilingual guides (72 URLs).",
+      "description": "Concise AI-ready global index of QuotaPulse Google Ultra top-up plans across 12 currencies (TWD, HKD, JPY, KRW, SGD, MYR, USD, GBP, EUR, CAD, AUD), safety guarantees, pro-rata refund policy, and all 109 canonical URLs.",
       "representativeQueries": [
-        "讀取 QuotaPulse 的 Google Ultra 儲值、Antigravity 代儲與 Vibe Coding 方案摘要",
-        "Summarize QuotaPulse Google Ultra 5x vs 20x pricing, primary-holder perks, and refund policy",
-        "查詢 QuotaPulse 全部 24 篇 Google Ultra 儲值、訂閱與 Vibe Coding 教學指南連結"
+        "讀取 QuotaPulse 全球 12 幣別 Google Ultra 儲值、Antigravity 代儲與多地區方案摘要",
+        "Summarize QuotaPulse Google AI Ultra 5x vs 20x global pricing in JPY, KRW, HKD, SGD, MYR, TWD and USD",
+        "查詢 QuotaPulse 全部 109 頁多地區入口與 24 篇教學指南連結"
       ],
-      "tags": ["llms-txt", "google-ultra", "vibe-coding", "antigravity", "pricing"],
-      "version": "2026.11.3",
-      "updatedAt": "2026-11-26T16:00:00+08:00"
+      "tags": ["llms-txt", "google-ultra", "global-pricing", "antigravity", "vibe-coding"],
+      "version": "2026.11.4",
+      "updatedAt": "2026-11-26T17:15:00+08:00"
     },
     {
       "@context": "https://agenticresourcediscovery.org/context/v1",
@@ -94,15 +130,15 @@
       "displayName": "QuotaPulse Full Knowledge Base (llms-full.txt)",
       "type": "text/markdown; profile=\"urn:air:agent-skills\"",
       "url": "https://vaxaxas.github.io/llms-full.txt",
-      "description": "Comprehensive technical specification covering Google Ultra 5x / 20x top-ups vs ChatGPT Pro ($200) & Claude Max ($100/$200), primary-holder YouTube Premium & 30TB rules, Vibe Coding economics, and 38 Q&As across 99 canonical URLs.",
+      "description": "Comprehensive technical specification covering Google Ultra 5x / 20x global pricing across 12 markets, HK/JP/KR/SG-MY regional eligibility facts, primary-holder YouTube Premium & 30TB rules, Vibe Coding economics, and 109 canonical URLs.",
       "representativeQueries": [
         "比較 Google Ultra 個人直充 vs 家庭組共享車位 vs Cookie 代刷安全性與權益差異",
-        "比較 Google Ultra、ChatGPT Pro 與 Claude Max 規格與月費性價比",
+        "比較 Google Ultra 全球各國官方售價（日本、韓國、香港、台灣、新加坡、馬來西亞、歐美）",
         "Compare Google Ultra primary-holder YouTube Premium and Flow credits vs shared family slots"
       ],
-      "tags": ["knowledge-base", "google-ultra", "chatgpt-pro", "claude-max", "veo", "faq"],
-      "version": "2026.11.3",
-      "updatedAt": "2026-11-26T16:00:00+08:00"
+      "tags": ["knowledge-base", "google-ultra", "japan", "korea", "hong-kong", "singapore", "malaysia", "faq"],
+      "version": "2026.11.4",
+      "updatedAt": "2026-11-26T17:15:00+08:00"
     }
   ]
 }
