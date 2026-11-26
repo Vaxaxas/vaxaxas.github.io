@@ -2,7 +2,8 @@
 
 專為台灣、香港澳門、中國大陸、新加坡馬來西亞、日本、韓國與全球開發者、**Vibe Coding（氛圍編程）玩家**、一人公司／Indie Hacker、AI 影音創作者與研究人員打造的 **Google Ultra 儲值（Google AI Ultra 代儲／Google One Ultra 儲值，限時特價 5x $69・20x $138 USD，原價 $99・$199）、Gemini Ultra 代購與 Antigravity代儲充入個人帳號獨享開通服務**。直充你本人的個人 Google 帳號一次解鎖六大主號特權：**Antigravity 每 5 小時刷新多代理配額、Gemini Deep Think、Google Flow（10,000–25,000+ 點與完整 Veo 影片）、NotebookLM（每日最高 5,000 查）、20TB/30TB Google One 雲端空間與 YouTube Premium 個人權益（依地區條款）**；免外幣卡、避開禮物卡鎖區與家庭組閹割風險、**全程絕不索取密碼、2FA 或瀏覽器 Cookie**，平均 **10–30 分鐘開通**，享公開透明的 **30/90/180 天保固（非個人因素依照未使用到的天數比例退款；個人因素取消不予退款）**。
 
-## 🌍 全球 17 語系與 65+ 國專屬入口（118 頁雙向 Hreflang 完整索引）
+## 🌍 全球 17 語系與 65+ 國專屬入口（135 頁雙向 Hreflang 完整索引）
+- 🏦 **Google 會員儲值總中心（Antigravity・Gemini・Google One・AI 點數五語系總覽）**：[繁中總中心](https://vaxaxas.github.io/google-membership-top-up/) · [简中总中心](https://vaxaxas.github.io/zh-cn/google-membership-top-up/) · [English Hub](https://vaxaxas.github.io/en/google-membership-top-up/) · [日本語ハブ](https://vaxaxas.github.io/ja/google-membership-top-up/) · [한국어 허브](https://vaxaxas.github.io/ko/google-membership-top-up/)
 - 🇹🇼 **台灣繁體中文首頁**：[https://vaxaxas.github.io/](https://vaxaxas.github.io/) · [Google Ultra 儲值專區](https://vaxaxas.github.io/google-ultra-top-up/)
 - 🇭🇰 **香港＆澳門專區（`zh-Hant-HK`・HKD 試算＆鎖卡避坑）**：[https://vaxaxas.github.io/hk/](https://vaxaxas.github.io/hk/)
 - 🇨🇳 **中国大陆简体中文首页（`zh-Hans-CN`）**：[https://vaxaxas.github.io/zh-cn/](https://vaxaxas.github.io/zh-cn/) · [Google Ultra 充值专区](https://vaxaxas.github.io/zh-cn/google-ultra-top-up/)
@@ -20,8 +21,8 @@
 - 🇮🇩 **Bahasa Indonesia (`id-ID` · Top Up Google Antigravity & AI Ultra Murah)**：[https://vaxaxas.github.io/id/](https://vaxaxas.github.io/id/)
 - 🌐 **Global English & 20-Market Currency Directory**：[English Home](https://vaxaxas.github.io/en/) · [繁中全球地區總覽](https://vaxaxas.github.io/regions/) · [简中全球地区总览](https://vaxaxas.github.io/zh-cn/regions/) · [EN Regions & Currency Hub](https://vaxaxas.github.io/en/regions/)
 - 🔥 **Vibe Coding × Google AI 訂閱配對專區**：[繁中](https://vaxaxas.github.io/vibe-coding/) · [简中](https://vaxaxas.github.io/zh-cn/vibe-coding/) · [EN](https://vaxaxas.github.io/en/vibe-coding/)
-- ❓ **常見問題知識庫（38 題）＆免費估算器**：[繁中 FAQ](https://vaxaxas.github.io/faq/) · [用量估算器](https://vaxaxas.github.io/calculator/) · [站內線上工單](https://vaxaxas.github.io/support/) · [官方社群](https://vaxaxas.github.io/community/)
-- 🤖 **AI、RSS 與搜尋引擎索引（118 頁）**：[sitemap.xml](https://vaxaxas.github.io/sitemap.xml) · [sitemap.txt](https://vaxaxas.github.io/sitemap.txt) · [rss.xml](https://vaxaxas.github.io/rss.xml) · [llms.txt](https://vaxaxas.github.io/llms.txt) · [llms-full.txt](https://vaxaxas.github.io/llms-full.txt) · [ard.json](https://vaxaxas.github.io/.well-known/ard.json)
+- ❓ **常見問題知識庫（44 題）＆免費估算器**：[繁中 FAQ](https://vaxaxas.github.io/faq/) · [用量估算器](https://vaxaxas.github.io/calculator/) · [站內線上工單](https://vaxaxas.github.io/support/) · [官方社群](https://vaxaxas.github.io/community/)
+- 🤖 **AI、RSS 與搜尋引擎索引（135 頁）**：[sitemap.xml](https://vaxaxas.github.io/sitemap.xml) · [sitemap.txt](https://vaxaxas.github.io/sitemap.txt) · [rss.xml](https://vaxaxas.github.io/rss.xml) · [llms.txt](https://vaxaxas.github.io/llms.txt) · [llms-full.txt](https://vaxaxas.github.io/llms-full.txt) · [ard.json](https://vaxaxas.github.io/.well-known/ard.json)
 
 ---
 
@@ -39,7 +40,13 @@
 
 ---
 
-## 📖 二十四大主題權威教學指南（繁中 / 简中 / EN 共 72 篇）
+## 📖 二十八大主題權威教學指南（繁中 / 简中 / EN 共 84 篇）
+
+### 🏦 Google 會員儲值、AI 點數加購、台灣電信帳單與 Gemini 攻略（最新新增）
+1. **Google AI 點數 vs Ultra 實算**：[2026 Google AI 點數儲值全解析：單買 2,500–20,000 點 vs 直升 Ultra 5x/20x 成本實算](https://vaxaxas.github.io/guides/google-ai-credits-top-up-vs-ultra/) · [简中](https://vaxaxas.github.io/zh-cn/guides/google-ai-credits-top-up-vs-ultra/) · [EN](https://vaxaxas.github.io/en/guides/google-ai-credits-top-up-vs-ultra/)
+2. **台灣 Google 會員付款管道評比**：[電信帳單代收（中華／遠傳／台哥大）、郵局金融卡、30% 蘋果稅 vs 免密碼個人直充](https://vaxaxas.github.io/guides/google-one-telecom-billing-credit-card-vs-top-up/) · [简中](https://vaxaxas.github.io/zh-cn/guides/google-one-telecom-billing-credit-card-vs-top-up/) · [EN](https://vaxaxas.github.io/en/guides/google-one-telecom-billing-credit-card-vs-top-up/)
+3. **2026 Gemini 全方案儲值攻略**：[Free vs AI Plus vs AI Pro（原 Gemini Advanced）vs Ultra 5x/20x 規格與升級教學](https://vaxaxas.github.io/guides/gemini-advanced-pro-ultra-membership-top-up-guide/) · [简中](https://vaxaxas.github.io/zh-cn/guides/gemini-advanced-pro-ultra-membership-top-up-guide/) · [EN](https://vaxaxas.github.io/en/guides/gemini-advanced-pro-ultra-membership-top-up-guide/)
+4. **Antigravity 下載安裝與雙模型池**：[Google Antigravity 下載安裝、Gemini 4＋Claude 雙獨立額度池與會員儲值開通教學](https://vaxaxas.github.io/guides/antigravity-ide-download-setup-membership-guide/) · [简中](https://vaxaxas.github.io/zh-cn/guides/antigravity-ide-download-setup-membership-guide/) · [EN](https://vaxaxas.github.io/en/guides/antigravity-ide-download-setup-membership-guide/)
 
 ### 💎 Google Ultra 儲值、隱藏福利與頂規 AI 對決
 1. **台灣 Google Ultra 儲值全攻略**：[2026 Google Ultra 儲值與代儲完整攻略：台灣價格比較（5x $69 / 20x $138）、免密碼直充與 8591／合租避坑](https://vaxaxas.github.io/guides/google-ultra-top-up-taiwan-guide/) · [简中](https://vaxaxas.github.io/zh-cn/guides/google-ultra-top-up-taiwan-guide/) · [EN](https://vaxaxas.github.io/en/guides/google-ultra-top-up-taiwan-guide/)

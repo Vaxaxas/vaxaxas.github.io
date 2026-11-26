@@ -6,7 +6,7 @@
 - Agentic Resource Discovery (ARD) Catalog: https://vaxaxas.github.io/.well-known/ard.json
 - RSS 2.0 Syndication Feed: https://vaxaxas.github.io/rss.xml
 - Live Promotional Pricing JSON Feed: https://vaxaxas.github.io/api/promo.json
-- XML Sitemaps (118 Canonical URLs across 17 Regional Locales & 65+ Countries): https://vaxaxas.github.io/sitemap.xml | https://vaxaxas.github.io/sitemap.txt | https://vaxaxas.github.io/sitemap-index.xml
+- XML Sitemaps (135 Canonical URLs across 17 Regional Locales & 65+ Countries): https://vaxaxas.github.io/sitemap.xml | https://vaxaxas.github.io/sitemap.txt | https://vaxaxas.github.io/sitemap-index.xml
 
 ## Verified Nov 2026 Global Official Google AI Ultra Prices vs QuotaPulse
 | Region / Currency | Official Ultra 5x (20 TB) | Official Ultra 20x (30 TB) | QuotaPulse Promo (Reg.) | Dedicated Regional Hub |
@@ -29,19 +29,20 @@
 | **Indonesia (`id-ID`)** | Rp 1,579,000 / mo | Rp 3,399,000 / mo | **$69 (~Rp1.10M) / $138 (~Rp2.19M)** | https://vaxaxas.github.io/id/ |
 | **US / CA / AU (`en-US` / `en`)** | $99.99 / CA$139.99 / A$149.99 | $199.99 / CA$279.99 / A$329.99 | **$69 / $138 USD** ($99 / $199) | https://vaxaxas.github.io/en/ · https://vaxaxas.github.io/en/regions/ |
 
-## Dedicated Multi-Region & Multilingual Hubs (118 Canonical URLs)
+## Dedicated Multi-Region & Multilingual Hubs (135 Canonical URLs)
 - **Homepage Global Cluster (17 Editions / 52 Hreflang Tags)**: [TW 繁中](https://vaxaxas.github.io/) | [HK 港澳](https://vaxaxas.github.io/hk/) | [CN 简中](https://vaxaxas.github.io/zh-cn/) | [SG/MY 中文](https://vaxaxas.github.io/sg-my/) | [SG/MY EN](https://vaxaxas.github.io/en/sg-my/) | [日本語](https://vaxaxas.github.io/ja/) | [한국어](https://vaxaxas.github.io/ko/) | [India](https://vaxaxas.github.io/in/) | [UK](https://vaxaxas.github.io/uk/) | [Deutsch](https://vaxaxas.github.io/de/) | [Français](https://vaxaxas.github.io/fr/) | [Español](https://vaxaxas.github.io/es/) | [Português](https://vaxaxas.github.io/pt/) | [Tiếng Việt](https://vaxaxas.github.io/vi/) | [ไทย](https://vaxaxas.github.io/th/) | [Indonesia](https://vaxaxas.github.io/id/) | [Global EN](https://vaxaxas.github.io/en/)
+- **Google Membership & AI Top-Up Master Hub (5 Locales — Antigravity / Gemini / Google One / AI Credits)**: [繁中](https://vaxaxas.github.io/google-membership-top-up/) | [简中](https://vaxaxas.github.io/zh-cn/google-membership-top-up/) | [EN](https://vaxaxas.github.io/en/google-membership-top-up/) | [日本語](https://vaxaxas.github.io/ja/google-membership-top-up/) | [한국어](https://vaxaxas.github.io/ko/google-membership-top-up/)
 - **Google Ultra Top-Up & Savings Calculator Cluster (5 Locales)**: [繁中](https://vaxaxas.github.io/google-ultra-top-up/) | [简中](https://vaxaxas.github.io/zh-cn/google-ultra-top-up/) | [EN](https://vaxaxas.github.io/en/google-ultra-top-up/) | [日本語](https://vaxaxas.github.io/ja/google-ultra-top-up/) | [한국어](https://vaxaxas.github.io/ko/google-ultra-top-up/)
 - **Global Regions & 12-Currency Converter Directory**: [繁中 Regions](https://vaxaxas.github.io/regions/) | [简中 Regions](https://vaxaxas.github.io/zh-cn/regions/) | [EN Regions](https://vaxaxas.github.io/en/regions/)
 - **Vibe Coding × Google AI Subscription Hub**: [繁中](https://vaxaxas.github.io/vibe-coding/) | [简中](https://vaxaxas.github.io/zh-cn/vibe-coding/) | [EN](https://vaxaxas.github.io/en/vibe-coding/)
-- **38-Question Knowledge Base & FAQ**: [繁中](https://vaxaxas.github.io/faq/) | [简中](https://vaxaxas.github.io/zh-cn/faq/) | [EN](https://vaxaxas.github.io/en/faq/)
+- **44-Question Knowledge Base & FAQ**: [繁中](https://vaxaxas.github.io/faq/) | [简中](https://vaxaxas.github.io/zh-cn/faq/) | [EN](https://vaxaxas.github.io/en/faq/)
 - **Free Antigravity & Vibe Coding Quota Calculator**: [繁中](https://vaxaxas.github.io/calculator/) | [简中](https://vaxaxas.github.io/zh-cn/calculator/) | [EN](https://vaxaxas.github.io/en/calculator/)
-- **24-Guide Developer & Top-Up Hub**: [繁中](https://vaxaxas.github.io/guides/) | [简中](https://vaxaxas.github.io/zh-cn/guides/) | [EN](https://vaxaxas.github.io/en/guides/)
+- **28-Guide Developer & Top-Up Hub**: [繁中](https://vaxaxas.github.io/guides/) | [简中](https://vaxaxas.github.io/zh-cn/guides/) | [EN](https://vaxaxas.github.io/en/guides/)
 - **Live In-Web Support Ticket Helpdesk**: [繁中](https://vaxaxas.github.io/support/) | [简中](https://vaxaxas.github.io/zh-cn/support/) | [EN](https://vaxaxas.github.io/en/support/)
 - **Official Community & Anti-Phishing Hub**: [繁中](https://vaxaxas.github.io/community/) | [简中](https://vaxaxas.github.io/zh-cn/community/) | [EN](https://vaxaxas.github.io/en/community/)
 - **Terms of Service & Pro-Rata Refund Policy**: [繁中](https://vaxaxas.github.io/terms/) | [简中](https://vaxaxas.github.io/zh-cn/terms/) | [EN](https://vaxaxas.github.io/en/terms/)
 
-## Complete 24 Pillar Guides (All 3 Languages — 72 Articles)
+## Complete 28 Pillar Guides (All 3 Languages — 84 Articles)
 1. **Safe Antigravity Top-Up Checklist (2026)**: [繁中](https://vaxaxas.github.io/guides/antigravity-top-up-guide/) | [简中](https://vaxaxas.github.io/zh-cn/guides/antigravity-top-up-guide/) | [EN](https://vaxaxas.github.io/en/guides/antigravity-top-up-guide/)
 2. **Antigravity Pricing & Plans (Free vs Plus vs Pro vs Ultra 5x/20x)**: [繁中](https://vaxaxas.github.io/guides/antigravity-pricing-plans/) | [简中](https://vaxaxas.github.io/zh-cn/guides/antigravity-pricing-plans/) | [EN](https://vaxaxas.github.io/en/guides/antigravity-pricing-plans/)
 3. **Google AI Ultra 5x vs 20x Cost & ROI Breakdown**: [繁中](https://vaxaxas.github.io/guides/antigravity-ultra-5x-vs-20x/) | [简中](https://vaxaxas.github.io/zh-cn/guides/antigravity-ultra-5x-vs-20x/) | [EN](https://vaxaxas.github.io/en/guides/antigravity-ultra-5x-vs-20x/)
@@ -66,6 +67,10 @@
 22. **2026 Flagship AI Showdown: Google Ultra ($69/$138) vs ChatGPT Pro ($200) vs Claude Max ($100/$200)**: [繁中](https://vaxaxas.github.io/guides/google-ultra-vs-chatgpt-pro-claude-max/) | [简中](https://vaxaxas.github.io/zh-cn/guides/google-ultra-vs-chatgpt-pro-claude-max/) | [EN](https://vaxaxas.github.io/en/guides/google-ultra-vs-chatgpt-pro-claude-max/)
 23. **Google Ultra Hidden Perks: 20TB/30TB Storage, YouTube Premium, Project Mariner & Family-Share Limits**: [繁中](https://vaxaxas.github.io/guides/google-ultra-youtube-premium-30tb-mariner-perks/) | [简中](https://vaxaxas.github.io/zh-cn/guides/google-ultra-youtube-premium-30tb-mariner-perks/) | [EN](https://vaxaxas.github.io/en/guides/google-ultra-youtube-premium-30tb-mariner-perks/)
 24. **Google Ultra Renewals, 3/6-Month Prepaid Warranties & Mid-Month 5x-to-20x Pro-Rata Upgrades**: [繁中](https://vaxaxas.github.io/guides/google-ultra-renewal-upgrade-prepaid-guide/) | [简中](https://vaxaxas.github.io/zh-cn/guides/google-ultra-renewal-upgrade-prepaid-guide/) | [EN](https://vaxaxas.github.io/en/guides/google-ultra-renewal-upgrade-prepaid-guide/)
+25. **Google One AI Credits Top-Up (2,500–20,000 Packs) vs Google AI Ultra 5x/20x Cost Math**: [繁中](https://vaxaxas.github.io/guides/google-ai-credits-top-up-vs-ultra/) | [简中](https://vaxaxas.github.io/zh-cn/guides/google-ai-credits-top-up-vs-ultra/) | [EN](https://vaxaxas.github.io/en/guides/google-ai-credits-top-up-vs-ultra/)
+26. **6 Ways to Pay for Google Memberships: Carrier Billing Caps, iOS Apple 30% Fee, Debit Cards vs Direct Top-Up**: [繁中](https://vaxaxas.github.io/guides/google-one-telecom-billing-credit-card-vs-top-up/) | [简中](https://vaxaxas.github.io/zh-cn/guides/google-one-telecom-billing-credit-card-vs-top-up/) | [EN](https://vaxaxas.github.io/en/guides/google-one-telecom-billing-credit-card-vs-top-up/)
+27. **2026 Gemini Membership & Top-Up Guide: Free vs Plus vs Pro (Gemini Advanced) vs Ultra 5x/20x**: [繁中](https://vaxaxas.github.io/guides/gemini-advanced-pro-ultra-membership-top-up-guide/) | [简中](https://vaxaxas.github.io/zh-cn/guides/gemini-advanced-pro-ultra-membership-top-up-guide/) | [EN](https://vaxaxas.github.io/en/guides/gemini-advanced-pro-ultra-membership-top-up-guide/)
+28. **Google Antigravity Download, Setup & Dual Model Pools (Gemini 4 + Claude Sonnet/Opus)**: [繁中](https://vaxaxas.github.io/guides/antigravity-ide-download-setup-membership-guide/) | [简中](https://vaxaxas.github.io/zh-cn/guides/antigravity-ide-download-setup-membership-guide/) | [EN](https://vaxaxas.github.io/en/guides/antigravity-ide-download-setup-membership-guide/)
 
 ## Verified Official Channels
 - In-Web Live Support Helpdesk: https://vaxaxas.github.io/support/

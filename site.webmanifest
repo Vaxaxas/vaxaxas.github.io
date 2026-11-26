@@ -1,0 +1,15 @@
+{
+  "name": "QuotaPulse — Antigravity代儲・Google Ultra 儲值・Google AI 會員儲值",
+  "short_name": "QuotaPulse",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07090f",
+  "theme_color": "#07090f",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

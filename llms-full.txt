@@ -2,7 +2,7 @@
 
 > Canonical Origin: https://vaxaxas.github.io
 > Languages & Regional Hubs Supported: Traditional Chinese Taiwan (`zh-Hant-TW` at `/`), Hong Kong & Macau (`zh-Hant-HK` at `/hk/`), Simplified Chinese Mainland (`zh-Hans-CN` at `/zh-cn/`), Singapore & Malaysia Bilingual (`zh-Hans-SG` at `/sg-my/`, `en-SG` at `/en/sg-my/`), Japanese (`ja-JP` at `/ja/` & `/ja/google-ultra-top-up/`), Korean (`ko-KR` at `/ko/` & `/ko/google-ultra-top-up/`), Global English (`en-US` / `en` at `/en/`), and Trilingual Global Regions Directory (`/regions/`, `/zh-cn/regions/`, `/en/regions/`)
-> Feeds & Manifests: Sitemap `https://vaxaxas.github.io/sitemap.xml` (118 URLs) | Text Sitemap `https://vaxaxas.github.io/sitemap.txt` | RSS `https://vaxaxas.github.io/rss.xml` | ARD `https://vaxaxas.github.io/.well-known/ard.json`
+> Feeds & Manifests: Sitemap `https://vaxaxas.github.io/sitemap.xml` (135 URLs) | Text Sitemap `https://vaxaxas.github.io/sitemap.txt` | RSS `https://vaxaxas.github.io/rss.xml` | ARD `https://vaxaxas.github.io/.well-known/ard.json`
 > Disclosure: QuotaPulse is an independent third-party subscription top-up and fulfillment service. It is NOT affiliated with, authorized by, sponsored by, or endorsed by Google LLC.
 
 ---
@@ -57,6 +57,13 @@ Every order enforces the **Four-Zero Safety Protocol** (**Zero Password, Zero 2F
 - Japan (`ja-JP`, `ja`): https://vaxaxas.github.io/ja/
 - South Korea (`ko-KR`, `ko`): https://vaxaxas.github.io/ko/
 
+### Google Membership & AI Top-Up Master Cluster (5 Canonical URLs, 11 Reciprocal Hreflang Tags)
+- Taiwan (`zh-Hant-TW`, `zh-Hant`, `x-default`): https://vaxaxas.github.io/google-membership-top-up/
+- Mainland China (`zh-Hans-CN`, `zh-Hans`): https://vaxaxas.github.io/zh-cn/google-membership-top-up/
+- Global English (`en-US`, `en`): https://vaxaxas.github.io/en/google-membership-top-up/
+- Japan (`ja-JP`, `ja`): https://vaxaxas.github.io/ja/google-membership-top-up/
+- South Korea (`ko-KR`, `ko`): https://vaxaxas.github.io/ko/google-membership-top-up/
+
 ### Google Ultra Top-Up Cluster (5 Canonical URLs, 11 Reciprocal Hreflang Tags)
 - Taiwan (`zh-Hant-TW`, `zh-Hant`, `x-default`): https://vaxaxas.github.io/google-ultra-top-up/
 - Mainland China (`zh-Hans-CN`, `zh-Hans`): https://vaxaxas.github.io/zh-cn/google-ultra-top-up/
@@ -74,8 +81,8 @@ Every order enforces the **Four-Zero Safety Protocol** (**Zero Password, Zero 2F
 - Quota Calculator: `/calculator/`, `/zh-cn/calculator/`, `/en/calculator/`
 - Live Support Helpdesk: `/support/`, `/zh-cn/support/`, `/en/support/`
 - Community & Anti-Phishing Hub: `/community/`, `/zh-cn/community/`, `/en/community/`
-- FAQ Knowledge Base (38 Q&As): `/faq/`, `/zh-cn/faq/`, `/en/faq/`
-- Guides Hub & All 24 Pillar Articles: `/guides/` + 24 `/guides/<slug>/` articles across `zh-tw`, `zh-cn`, `en` (75 URLs)
+- FAQ Knowledge Base (44 Q&As): `/faq/`, `/zh-cn/faq/`, `/en/faq/`
+- Guides Hub & All 28 Pillar Articles: `/guides/` + 28 `/guides/<slug>/` articles across `zh-tw`, `zh-cn`, `en` (87 URLs)
 - Terms & Pro-Rata Refund Warranty: `/terms/`, `/zh-cn/terms/`, `/en/terms/`
 
 ---

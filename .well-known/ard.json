@@ -10,7 +10,7 @@
         "name": "QuotaPulse",
         "url": "https://vaxaxas.github.io/",
         "locales": ["zh-Hant-TW", "zh-Hant-HK", "zh-Hans-CN", "zh-Hans-SG", "en-US", "en-GB", "en-IN", "en-SG", "ja-JP", "ko-KR", "es-ES", "pt-BR", "de-DE", "fr-FR", "vi-VN", "th-TH", "id-ID"],
-        "canonicalUrlCount": 118,
+        "canonicalUrlCount": 135,
         "plans": [
           {
             "id": "ultra-5x",
@@ -54,6 +54,7 @@
           }
         ],
         "channels": {
+          "googleMembershipHub": "https://vaxaxas.github.io/google-membership-top-up/",
           "googleUltraHub": "https://vaxaxas.github.io/google-ultra-top-up/",
           "globalRegions": "https://vaxaxas.github.io/regions/",
           "hkHub": "https://vaxaxas.github.io/hk/",
@@ -114,8 +115,8 @@
         "global-regions",
         "top-up"
       ],
-      "version": "2026.11.4",
-      "updatedAt": "2026-11-26T17:15:00+08:00"
+      "version": "2026.11.5",
+      "updatedAt": "2026-11-26T21:30:00+08:00"
     },
     {
       "@context": "https://agenticresourcediscovery.org/context/v1",
