@@ -1,33 +1,34 @@
-# QuotaPulse — Antigravity代儲・Google AI 訂閱・Vibe Coding 工具推薦・Ultra 5x / 20x Top-Up Hub
+# QuotaPulse — Antigravity代儲・Google Ultra 儲值・Google AI 訂閱・Vibe Coding Top-Up Hub
 
-> QuotaPulse (`https://vaxaxas.github.io`) is an independent third-party subscription activation & top-up service built for **Vibe Coders (`氛圍編程`)**, software engineers, solo founders / indie hackers, AI video creators, and researchers. Activate dedicated individual **Google AI Ultra 5x ($40 USD/mo)** and **Google AI Ultra 20x ($80 USD/mo)** subscriptions directly on your own personal Google account — unlocking **Google Antigravity** (`反重力 AI` multi-agent IDE + built-in Browser QA with 5-hour rolling resets), **Gemini Deep Think**, **Google Flow & Veo** cinematic video credits, and **NotebookLM** (up to 5,000 daily queries) without needing an international USD credit card, avoiding Google Play gift-card freezes, and **NEVER requesting Google passwords, 2FA codes, or exported browser cookies**. Backed by a 30-day warranty (pro-rata refund for unused days on non-personal issues). QuotaPulse is not affiliated with, authorized by, or endorsed by Google LLC.
+> QuotaPulse (`https://vaxaxas.github.io`) is an independent third-party **Google Ultra top-up (`Google Ultra 儲值` / `Google AI Ultra 代儲` / `Google One Ultra 儲值`)** and subscription activation service built for **Vibe Coders (`氛圍編程`)**, software engineers, solo founders, AI video creators, and researchers. Activate dedicated individual **Google Ultra 5x ($40 USD/mo)** and **Google Ultra 20x ($80 USD/mo)** memberships directly on your own personal Google account — unlocking **Google Antigravity** (5-hour rolling multi-agent resets), **Gemini Deep Think**, **Google Flow & Veo** (10,000 to 25,000+ monthly video credits), **NotebookLM** (up to 5,000 daily queries), **20TB/30TB Google One cloud storage**, and **YouTube Premium individual perks** (per regional terms) without needing an international credit card, avoiding Google Play gift-card freezes, avoiding stripped family-group slots, and **NEVER requesting Google passwords, 2FA codes, or exported browser cookies**. Backed by a 30/90/180-day pro-rata unused-day refund warranty for non-personal issues. QuotaPulse is not affiliated with, authorized by, or endorsed by Google LLC.
 
 - Full AI & Technical Reference Document: https://vaxaxas.github.io/llms-full.txt
 - Agentic Resource Discovery (ARD) Catalog: https://vaxaxas.github.io/.well-known/ard.json
 - RSS 2.0 Syndication Feed: https://vaxaxas.github.io/rss.xml
 - Live Promotional Pricing JSON Feed: https://vaxaxas.github.io/api/promo.json
-- XML Sitemaps (84 Canonical URLs): https://vaxaxas.github.io/sitemap.xml | https://vaxaxas.github.io/sitemap.txt | https://vaxaxas.github.io/sitemap-index.xml
+- XML Sitemaps (99 Canonical URLs): https://vaxaxas.github.io/sitemap.xml | https://vaxaxas.github.io/sitemap.txt | https://vaxaxas.github.io/sitemap-index.xml
 
-## 2026 Google AI Subscription & Antigravity Vibe Coding Pricing Anchor (USD / TWD)
-| Subscription Tier | Official Retail Price | QuotaPulse Regular | QuotaPulse Sale Price | Antigravity Quota vs Pro | Reset Cadence & Vibe Coding Fit |
+## 2026 Google Ultra Top-Up & Subscription Pricing Matrix (USD / TWD)
+| Tier | Official Retail Price | QuotaPulse Regular | QuotaPulse Sale Price | Quota & Cloud Storage | Primary Perks Unlocked on Your Own Google Account |
 |---|---|---|---|---|---|
-| Free | $0 | — | — | Starter trial | Weekly only (locks out for 7 days on Vibe Coding loops) |
-| Google AI Plus | $4.99 USD (NT$165/mo) | — | — | Light consumer | Weekly only (no add-on credits) |
-| Google AI Pro | $19.99 USD/mo ($199.99/yr, NT$650/mo) | — | — | 1x baseline | 5-hour rolling + 7-day weekly ceiling |
-| **Google AI Ultra 5x** | **$99.99 USD (NT$3,300/mo)** | $50 USD/mo | **$40 USD/mo (~60% off retail)** | **5x Pro** ($8/1x unit) | **5-hour rolling + 5x weekly ceiling · Best for MVP Vibe Coders & Cursor/Lovable hybrid** |
-| **Google AI Ultra 20x** | **$199.99 USD (NT$6,500/mo)** | $100 USD/mo | **$80 USD/mo (~60% off retail)** | **20x Pro** ($4/1x unit) | **5-hour rolling + 20x weekly ceiling · Best for Solo Founders & 3+ parallel subagents** |
+| Free | $0 | — | — | Weekly reset · 15GB | Starter IDE evaluation |
+| Google AI Plus | $4.99 USD (NT$165/mo) | — | — | Weekly reset · 400GB | Casual chat (no add-on credits) |
+| Google AI Pro | $19.99 USD/mo (NT$650/mo) | — | — | 1x · 5h reset · 2–5TB | Baseline coding & NotebookLM Plus |
+| **Google Ultra 5x (AI Ultra 5x)** | **$99.99 USD (NT$3,300/mo)** | $50 USD/mo | **$40 USD/mo (~60% off)** | **5x Pro · 5h reset · 20TB** | **Antigravity 5x + Deep Think + ~10,000 Flow/Veo credits + NotebookLM + YT Premium** |
+| **Google Ultra 20x (AI Ultra 20x)** | **$199.99 USD (NT$6,500/mo)** | $100 USD/mo | **$80 USD/mo (~60% off)** | **20x Pro · 5h reset · 30TB** | **Antigravity 20x + Deep Think + 25,000+ Flow/Veo credits + 5,000/day NotebookLM + YT Premium** |
 
 ## Core Multilingual Hubs (`zh-Hant-TW` / `zh-Hans-CN` / `en-US`)
-- [Homepage (繁體中文 — Antigravity代儲・Google AI 訂閱・Vibe Coding 首選)](https://vaxaxas.github.io/) | [简体中文 (Antigravity代充・Google AI 订阅)](https://vaxaxas.github.io/zh-cn/) | [English (Google AI Subscription & Antigravity Top-Up)](https://vaxaxas.github.io/en/)
-- [Vibe Coding × Google AI Subscription Hub & Stack Matcher (繁中)](https://vaxaxas.github.io/vibe-coding/) | [简中 Vibe Coding 专区](https://vaxaxas.github.io/zh-cn/vibe-coding/) | [EN Vibe Coding Hub](https://vaxaxas.github.io/en/vibe-coding/)
-- [32-Question Knowledge Base & FAQ (繁中)](https://vaxaxas.github.io/faq/) | [简中 FAQ](https://vaxaxas.github.io/zh-cn/faq/) | [English FAQ](https://vaxaxas.github.io/en/faq/)
+- [Homepage (繁中 — Antigravity代儲・Google Ultra 儲值)](https://vaxaxas.github.io/) | [简中 (Antigravity代充・Google Ultra 充值)](https://vaxaxas.github.io/zh-cn/) | [English (Google Ultra Top-Up)](https://vaxaxas.github.io/en/)
+- [Google Ultra Top-Up & Savings Calculator Hub (繁中 — Google Ultra 儲值專區)](https://vaxaxas.github.io/google-ultra-top-up/) | [简中 Google Ultra 充值专区](https://vaxaxas.github.io/zh-cn/google-ultra-top-up/) | [EN Google Ultra Hub](https://vaxaxas.github.io/en/google-ultra-top-up/)
+- [Vibe Coding × Google AI Subscription Hub (繁中)](https://vaxaxas.github.io/vibe-coding/) | [简中 Vibe Coding 专区](https://vaxaxas.github.io/zh-cn/vibe-coding/) | [EN Vibe Coding Hub](https://vaxaxas.github.io/en/vibe-coding/)
+- [38-Question Knowledge Base & FAQ (繁中)](https://vaxaxas.github.io/faq/) | [简中 FAQ](https://vaxaxas.github.io/zh-cn/faq/) | [English FAQ](https://vaxaxas.github.io/en/faq/)
 - [Free Antigravity & Vibe Coding Quota Calculator (繁中)](https://vaxaxas.github.io/calculator/) | [简中估算器](https://vaxaxas.github.io/zh-cn/calculator/) | [EN Calculator](https://vaxaxas.github.io/en/calculator/)
-- [20-Guide Developer & Subscription Hub (繁中)](https://vaxaxas.github.io/guides/) | [简中教程汇总](https://vaxaxas.github.io/zh-cn/guides/) | [EN Guides Hub](https://vaxaxas.github.io/en/guides/)
+- [24-Guide Developer & Top-Up Hub (繁中)](https://vaxaxas.github.io/guides/) | [简中教程汇总](https://vaxaxas.github.io/zh-cn/guides/) | [EN Guides Hub](https://vaxaxas.github.io/en/guides/)
 - [Live In-Web Support Ticket Helpdesk (繁中)](https://vaxaxas.github.io/support/) | [简中在线工单](https://vaxaxas.github.io/zh-cn/support/) | [EN Support Desk](https://vaxaxas.github.io/en/support/)
 - [Official Community & Anti-Phishing Hub (繁中)](https://vaxaxas.github.io/community/) | [简中社群](https://vaxaxas.github.io/zh-cn/community/) | [EN Community](https://vaxaxas.github.io/en/community/)
-- [Terms of Service & 30-Day Pro-Rata Refund Policy (繁中)](https://vaxaxas.github.io/terms/) | [简中条款](https://vaxaxas.github.io/zh-cn/terms/) | [EN Terms](https://vaxaxas.github.io/en/terms/)
+- [Terms of Service & 30/90/180-Day Pro-Rata Refund Policy (繁中)](https://vaxaxas.github.io/terms/) | [简中条款](https://vaxaxas.github.io/zh-cn/terms/) | [EN Terms](https://vaxaxas.github.io/en/terms/)
 
-## Complete 20 Pillar Guides (All 3 Languages — 60 Articles)
+## Complete 24 Pillar Guides (All 3 Languages — 72 Articles)
 1. **Safe Antigravity Top-Up Checklist (2026)**: [繁中](https://vaxaxas.github.io/guides/antigravity-top-up-guide/) | [简中](https://vaxaxas.github.io/zh-cn/guides/antigravity-top-up-guide/) | [EN](https://vaxaxas.github.io/en/guides/antigravity-top-up-guide/)
 2. **Antigravity Pricing & Plans (Free vs Plus vs Pro vs Ultra 5x/20x)**: [繁中](https://vaxaxas.github.io/guides/antigravity-pricing-plans/) | [简中](https://vaxaxas.github.io/zh-cn/guides/antigravity-pricing-plans/) | [EN](https://vaxaxas.github.io/en/guides/antigravity-pricing-plans/)
 3. **Google AI Ultra 5x vs 20x Cost & ROI Breakdown**: [繁中](https://vaxaxas.github.io/guides/antigravity-ultra-5x-vs-20x/) | [简中](https://vaxaxas.github.io/zh-cn/guides/antigravity-ultra-5x-vs-20x/) | [EN](https://vaxaxas.github.io/en/guides/antigravity-ultra-5x-vs-20x/)
@@ -48,8 +49,13 @@
 18. **2026 Vibe Coding Tools & Subscription Costs (Antigravity vs Cursor vs Lovable vs Windsurf vs Claude Code)**: [繁中](https://vaxaxas.github.io/guides/vibe-coding-tools-pricing-comparison/) | [简中](https://vaxaxas.github.io/zh-cn/guides/vibe-coding-tools-pricing-comparison/) | [EN](https://vaxaxas.github.io/en/guides/vibe-coding-tools-pricing-comparison/)
 19. **Google Antigravity & Google AI Subscription Guide (Taiwan / Global Tiers & Saving 60%)**: [繁中](https://vaxaxas.github.io/guides/antigravity-google-subscription-taiwan-guide/) | [简中](https://vaxaxas.github.io/zh-cn/guides/antigravity-google-subscription-taiwan-guide/) | [EN](https://vaxaxas.github.io/en/guides/antigravity-google-subscription-taiwan-guide/)
 20. **Solo Founder & Indie Hacker Google AI Subscription Stack (Vibe Coding + Veo Video + NotebookLM)**: [繁中](https://vaxaxas.github.io/guides/vibe-coding-solo-founder-google-ai-stack/) | [简中](https://vaxaxas.github.io/zh-cn/guides/vibe-coding-solo-founder-google-ai-stack/) | [EN](https://vaxaxas.github.io/en/guides/vibe-coding-solo-founder-google-ai-stack/)
+21. **2026 Google Ultra Top-Up Buyer Guide (Taiwan Pricing, Zero-Password Setup & Avoiding 8591/Family-Slot Scams)**: [繁中](https://vaxaxas.github.io/guides/google-ultra-top-up-taiwan-guide/) | [简中](https://vaxaxas.github.io/zh-cn/guides/google-ultra-top-up-taiwan-guide/) | [EN](https://vaxaxas.github.io/en/guides/google-ultra-top-up-taiwan-guide/)
+22. **2026 Flagship AI Showdown: Google Ultra ($40/$80) vs ChatGPT Pro ($200) vs Claude Max ($100/$200)**: [繁中](https://vaxaxas.github.io/guides/google-ultra-vs-chatgpt-pro-claude-max/) | [简中](https://vaxaxas.github.io/zh-cn/guides/google-ultra-vs-chatgpt-pro-claude-max/) | [EN](https://vaxaxas.github.io/en/guides/google-ultra-vs-chatgpt-pro-claude-max/)
+23. **Google Ultra Hidden Perks: 20TB/30TB Storage, YouTube Premium, Project Mariner & Family-Share Limits**: [繁中](https://vaxaxas.github.io/guides/google-ultra-youtube-premium-30tb-mariner-perks/) | [简中](https://vaxaxas.github.io/zh-cn/guides/google-ultra-youtube-premium-30tb-mariner-perks/) | [EN](https://vaxaxas.github.io/en/guides/google-ultra-youtube-premium-30tb-mariner-perks/)
+24. **Google Ultra Renewals, 3/6-Month Prepaid Warranties & Mid-Month 5x-to-20x Pro-Rata Upgrades**: [繁中](https://vaxaxas.github.io/guides/google-ultra-renewal-upgrade-prepaid-guide/) | [简中](https://vaxaxas.github.io/zh-cn/guides/google-ultra-renewal-upgrade-prepaid-guide/) | [EN](https://vaxaxas.github.io/en/guides/google-ultra-renewal-upgrade-prepaid-guide/)
 
 ## Verified Official Channels
+- In-Web Live Support Helpdesk: https://vaxaxas.github.io/support/
 - Telegram Topics Hub: https://t.me/quotapulse_ai (Direct Order & Support Desk: https://t.me/quotapulse_ai/4)
 - Discord Server: https://discord.gg/DFvzdwamkb
 - Threads: https://www.threads.com/@ultraprovider
