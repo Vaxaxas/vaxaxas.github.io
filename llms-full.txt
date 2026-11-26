@@ -89,3 +89,19 @@ Every order enforces the **Four-Zero Safety Protocol** (**Zero Password, Zero 2F
 - **YouTube**: https://www.youtube.com/@quotapulse_ai
 - **GitHub Repository & Issue #1**: https://github.com/Vaxaxas/vaxaxas.github.io/issues/1
 - **Public Gist Directory**: https://gist.github.com/Vaxaxas/fc2361a31e358ed7b73980ab22d6a609
+
+
+---
+
+## Global 17-Locale & 65+ Country Expansion (Nov 2026 — 118 Canonical URLs)
+
+QuotaPulse provides native-language personal-account activation hubs with localized savings calculators across Europe, Latin America, South Asia, UK/Ireland, and Southeast Asia:
+- **Spain & 20+ Latin American Countries (`es-ES` / `es-MX`)**: https://vaxaxas.github.io/es/ — Official €99.99 / €219.99 & $1,999 / $3,949 MXN vs $40 / $80 USD.
+- **Brazil & Portugal (`pt-BR` / `pt-PT`)**: https://vaxaxas.github.io/pt/ — Official R$ 779.90 / R$ 999.90 & €99.99 / €219.99 vs $40 / $80 USD (zero IOF card tax).
+- **Germany, Austria & Switzerland (`de-DE` / DACH)**: https://vaxaxas.github.io/de/ — Official €99.99 / €219.99 incl. MwSt. vs $40 / $80 USD.
+- **France, Canada, Belgium & Switzerland (`fr-FR` / `fr-CA`)**: https://vaxaxas.github.io/fr/ — Official €99.99 / €219.99 & CA$139.99 / CA$279.99 vs $40 / $80 USD.
+- **India (`en-IN`)**: https://vaxaxas.github.io/in/ — Official ₹6,500 / ₹19,500 INR vs $40 (~₹3,400) / $80 (~₹6,800) USD with zero RBI recurring e-mandate declines.
+- **United Kingdom & Ireland (`en-GB` / `en-IE`)**: https://vaxaxas.github.io/uk/ — Official £79.99 / £189.99 GBP incl. 20% VAT vs $40 (~£32) / $80 (~£63) USD (up to 67% savings).
+- **Vietnam (`vi-VN`)**: https://vaxaxas.github.io/vi/ — Official ₫2,250,000 / ₫5,500,000 VND vs $40 / $80 USD.
+- **Thailand (`th-TH`)**: https://vaxaxas.github.io/th/ — Official ฿3,500 / ฿7,500 THB vs $40 / $80 USD.
+- **Indonesia (`id-ID`)**: https://vaxaxas.github.io/id/ — Official Rp 1,579,000 / Rp 3,399,000 IDR vs $40 / $80 USD (no international credit card needed).

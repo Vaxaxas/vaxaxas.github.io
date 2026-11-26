@@ -9,8 +9,8 @@
       "data": {
         "name": "QuotaPulse",
         "url": "https://vaxaxas.github.io/",
-        "locales": ["zh-Hant-TW", "zh-Hant-HK", "zh-Hans-CN", "zh-Hans-SG", "en-US", "en-SG", "ja-JP", "ko-KR"],
-        "canonicalUrlCount": 109,
+        "locales": ["zh-Hant-TW", "zh-Hant-HK", "zh-Hans-CN", "zh-Hans-SG", "en-US", "en-GB", "en-IN", "en-SG", "ja-JP", "ko-KR", "es-ES", "pt-BR", "de-DE", "fr-FR", "vi-VN", "th-TH", "id-ID"],
+        "canonicalUrlCount": 118,
         "plans": [
           {
             "id": "ultra-5x",
@@ -61,6 +61,15 @@
           "sgMyHubEn": "https://vaxaxas.github.io/en/sg-my/",
           "jaHub": "https://vaxaxas.github.io/ja/",
           "koHub": "https://vaxaxas.github.io/ko/",
+          "esHub": "https://vaxaxas.github.io/es/",
+          "ptHub": "https://vaxaxas.github.io/pt/",
+          "deHub": "https://vaxaxas.github.io/de/",
+          "frHub": "https://vaxaxas.github.io/fr/",
+          "inHub": "https://vaxaxas.github.io/in/",
+          "ukHub": "https://vaxaxas.github.io/uk/",
+          "viHub": "https://vaxaxas.github.io/vi/",
+          "thHub": "https://vaxaxas.github.io/th/",
+          "idHub": "https://vaxaxas.github.io/id/",
           "vibeCodingHub": "https://vaxaxas.github.io/vibe-coding/",
           "calculator": "https://vaxaxas.github.io/calculator/",
           "guides": "https://vaxaxas.github.io/guides/",

@@ -2,17 +2,26 @@
 
 專為台灣、香港澳門、中國大陸、新加坡馬來西亞、日本、韓國與全球開發者、**Vibe Coding（氛圍編程）玩家**、一人公司／Indie Hacker、AI 影音創作者與研究人員打造的 **Google Ultra 儲值（Google AI Ultra 代儲／Google One Ultra 儲值，5x $40・20x $80）、Gemini Ultra 代購與 Antigravity代儲充入個人帳號獨享開通服務**。直充你本人的個人 Google 帳號一次解鎖六大主號特權：**Antigravity 每 5 小時刷新多代理配額、Gemini Deep Think、Google Flow（10,000–25,000+ 點與完整 Veo 影片）、NotebookLM（每日最高 5,000 查）、20TB/30TB Google One 雲端空間與 YouTube Premium 個人權益（依地區條款）**；免外幣卡、避開禮物卡鎖區與家庭組閹割風險、**全程絕不索取密碼、2FA 或瀏覽器 Cookie**，平均 **10–30 分鐘開通**，享公開透明的 **30/90/180 天保固（非個人因素依照未使用到的天數比例退款；個人因素取消不予退款）**。
 
-## 🌍 全球多地區專屬入口（109 頁雙向 Hreflang 完整索引）
+## 🌍 全球 17 語系與 65+ 國專屬入口（118 頁雙向 Hreflang 完整索引）
 - 🇹🇼 **台灣繁體中文首頁**：[https://vaxaxas.github.io/](https://vaxaxas.github.io/) · [Google Ultra 儲值專區](https://vaxaxas.github.io/google-ultra-top-up/)
 - 🇭🇰 **香港＆澳門專區（`zh-Hant-HK`・HKD 試算＆鎖卡避坑）**：[https://vaxaxas.github.io/hk/](https://vaxaxas.github.io/hk/)
 - 🇨🇳 **中国大陆简体中文首页（`zh-Hans-CN`）**：[https://vaxaxas.github.io/zh-cn/](https://vaxaxas.github.io/zh-cn/) · [Google Ultra 充值专区](https://vaxaxas.github.io/zh-cn/google-ultra-top-up/)
 - 🇸🇬🇲🇾 **新加坡＆馬來西亞雙語專區（SGD / MYR 試算）**：[中文專區 (`zh-Hans-SG`)](https://vaxaxas.github.io/sg-my/) · [English Hub (`en-SG`)](https://vaxaxas.github.io/en/sg-my/)
 - 🇯🇵 **日本向け専用ハブ（`ja-JP`・JPY 試算）**：[https://vaxaxas.github.io/ja/](https://vaxaxas.github.io/ja/) · [Google AI Ultra 課金代行](https://vaxaxas.github.io/ja/google-ultra-top-up/)
 - 🇰🇷 **한국 전용 허브（`ko-KR`・KRW 계산기）**：[https://vaxaxas.github.io/ko/](https://vaxaxas.github.io/ko/) · [구글 AI 울트라 대리결제](https://vaxaxas.github.io/ko/google-ultra-top-up/)
-- 🌐 **Global English & 12-Currency Regions Directory**：[English Home](https://vaxaxas.github.io/en/) · [繁中全球地區總覽](https://vaxaxas.github.io/regions/) · [简中全球地区总览](https://vaxaxas.github.io/zh-cn/regions/) · [EN Regions & Currency Hub](https://vaxaxas.github.io/en/regions/)
+- 🇮🇳 **India Edition (`en-IN` · INR ₹6,500 / ₹19,500 vs $40 / $80)**：[https://vaxaxas.github.io/in/](https://vaxaxas.github.io/in/)
+- 🇬🇧 **United Kingdom & Ireland (`en-GB` · GBP £79.99 / £189.99 vs $40 / $80)**：[https://vaxaxas.github.io/uk/](https://vaxaxas.github.io/uk/)
+- 🇩🇪🇦🇹🇨🇭 **Deutsch DACH (`de-DE` · Google Antigravity Aufladen & AI Ultra Abo)**：[https://vaxaxas.github.io/de/](https://vaxaxas.github.io/de/)
+- 🇫🇷🇨🇦🇧🇪 **Français (`fr-FR` · Recharger Google Antigravity & AI Ultra Moins Cher)**：[https://vaxaxas.github.io/fr/](https://vaxaxas.github.io/fr/)
+- 🇪🇸🇲🇽 **Español España y LatAm (`es-ES` / `es-MX` · Recarga Google Antigravity)**：[https://vaxaxas.github.io/es/](https://vaxaxas.github.io/es/)
+- 🇧🇷🇵🇹 **Português Brasil e Portugal (`pt-BR` · Assinatura Google AI Ultra Mais Barata)**：[https://vaxaxas.github.io/pt/](https://vaxaxas.github.io/pt/)
+- 🇻🇳 **Tiếng Việt (`vi-VN` · Nạp Google Antigravity & Mua Google AI Ultra Giá Rẻ)**：[https://vaxaxas.github.io/vi/](https://vaxaxas.github.io/vi/)
+- 🇹🇭 **ภาษาไทย (`th-TH` · เติมเงิน Google Antigravity & สมัคร Google AI Ultra)**：[https://vaxaxas.github.io/th/](https://vaxaxas.github.io/th/)
+- 🇮🇩 **Bahasa Indonesia (`id-ID` · Top Up Google Antigravity & AI Ultra Murah)**：[https://vaxaxas.github.io/id/](https://vaxaxas.github.io/id/)
+- 🌐 **Global English & 20-Market Currency Directory**：[English Home](https://vaxaxas.github.io/en/) · [繁中全球地區總覽](https://vaxaxas.github.io/regions/) · [简中全球地区总览](https://vaxaxas.github.io/zh-cn/regions/) · [EN Regions & Currency Hub](https://vaxaxas.github.io/en/regions/)
 - 🔥 **Vibe Coding × Google AI 訂閱配對專區**：[繁中](https://vaxaxas.github.io/vibe-coding/) · [简中](https://vaxaxas.github.io/zh-cn/vibe-coding/) · [EN](https://vaxaxas.github.io/en/vibe-coding/)
 - ❓ **常見問題知識庫（38 題）＆免費估算器**：[繁中 FAQ](https://vaxaxas.github.io/faq/) · [用量估算器](https://vaxaxas.github.io/calculator/) · [站內線上工單](https://vaxaxas.github.io/support/) · [官方社群](https://vaxaxas.github.io/community/)
-- 🤖 **AI、RSS 與搜尋引擎索引（109 頁）**：[sitemap.xml](https://vaxaxas.github.io/sitemap.xml) · [sitemap.txt](https://vaxaxas.github.io/sitemap.txt) · [rss.xml](https://vaxaxas.github.io/rss.xml) · [llms.txt](https://vaxaxas.github.io/llms.txt) · [llms-full.txt](https://vaxaxas.github.io/llms-full.txt) · [ard.json](https://vaxaxas.github.io/.well-known/ard.json)
+- 🤖 **AI、RSS 與搜尋引擎索引（118 頁）**：[sitemap.xml](https://vaxaxas.github.io/sitemap.xml) · [sitemap.txt](https://vaxaxas.github.io/sitemap.txt) · [rss.xml](https://vaxaxas.github.io/rss.xml) · [llms.txt](https://vaxaxas.github.io/llms.txt) · [llms-full.txt](https://vaxaxas.github.io/llms-full.txt) · [ard.json](https://vaxaxas.github.io/.well-known/ard.json)
 
 ---
 

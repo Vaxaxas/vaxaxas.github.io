@@ -6,7 +6,7 @@
 - Agentic Resource Discovery (ARD) Catalog: https://vaxaxas.github.io/.well-known/ard.json
 - RSS 2.0 Syndication Feed: https://vaxaxas.github.io/rss.xml
 - Live Promotional Pricing JSON Feed: https://vaxaxas.github.io/api/promo.json
-- XML Sitemaps (109 Canonical URLs across 8 Regional Locales): https://vaxaxas.github.io/sitemap.xml | https://vaxaxas.github.io/sitemap.txt | https://vaxaxas.github.io/sitemap-index.xml
+- XML Sitemaps (118 Canonical URLs across 17 Regional Locales & 65+ Countries): https://vaxaxas.github.io/sitemap.xml | https://vaxaxas.github.io/sitemap.txt | https://vaxaxas.github.io/sitemap-index.xml
 
 ## Verified Nov 2026 Global Official Google AI Ultra Prices vs QuotaPulse
 | Region / Currency | Official Ultra 5x (20 TB) | Official Ultra 20x (30 TB) | QuotaPulse Promo (Reg.) | Dedicated Regional Hub |
@@ -18,10 +18,19 @@
 | **Malaysia (`zh-Hans-SG` / `en-SG`)** | RM 429.99 / mo | RM 979.90 / mo | **$40 (~RM 178) / $80 (~RM 356)** | https://vaxaxas.github.io/sg-my/ · https://vaxaxas.github.io/en/sg-my/ |
 | **Japan (`ja-JP`, 税込)** | ¥14,500 / mo | ¥32,000 / mo | **$40 (~¥6,360) / $80 (~¥12,720)** | https://vaxaxas.github.io/ja/ · https://vaxaxas.github.io/ja/google-ultra-top-up/ |
 | **South Korea (`ko-KR`)** | ₩119,000 / mo | ₩300,000 / mo | **$40 (~₩53,720) / $80 (~₩107,440)** | https://vaxaxas.github.io/ko/ · https://vaxaxas.github.io/ko/google-ultra-top-up/ |
-| **US / UK / EU / CA / AU (`en-US` / `en`)** | $99.99 / £79.99 / €99.99 / CA$139.99 / A$149.99 | $199.99 / £189.99 / €219.99 / CA$279.99 / A$329.99 | **$40 / $80 USD** ($50 / $100) | https://vaxaxas.github.io/en/ · https://vaxaxas.github.io/en/regions/ |
+| **India (`en-IN`)** | ₹6,500 / mo | ₹19,500 / mo | **$40 (~₹3,400) / $80 (~₹6,800)** | https://vaxaxas.github.io/in/ |
+| **United Kingdom (`en-GB`)** | £79.99 / mo | £189.99 / mo | **$40 (~£32) / $80 (~£63)** | https://vaxaxas.github.io/uk/ |
+| **Germany / Austria / Switzerland (`de-DE`)** | €99.99 / mo | €219.99 / mo | **$40 (~€37) / $80 (~€74)** | https://vaxaxas.github.io/de/ |
+| **France / Canada / Belgium (`fr-FR`)** | €99.99 / CA$139.99 | €219.99 / CA$279.99 | **$40 / $80 USD** | https://vaxaxas.github.io/fr/ |
+| **Spain & Latin America (`es-ES` / `es-MX`)** | €99.99 / $1,999 MXN | €219.99 / $3,949 MXN | **$40 / $80 USD** | https://vaxaxas.github.io/es/ |
+| **Brazil & Portugal (`pt-BR` / `pt-PT`)** | R$ 779.90 / €99.99 | R$ 999.90 / €219.99 | **$40 (~R$232) / $80 (~R$464)** | https://vaxaxas.github.io/pt/ |
+| **Vietnam (`vi-VN`)** | ₫2,250,000 / mo | ₫5,500,000 / mo | **$40 (~₫1.02M) / $80 (~₫2.03M)** | https://vaxaxas.github.io/vi/ |
+| **Thailand (`th-TH`)** | ฿3,500 / mo | ฿7,500 / mo | **$40 (~฿1,380) / $80 (~฿2,760)** | https://vaxaxas.github.io/th/ |
+| **Indonesia (`id-ID`)** | Rp 1,579,000 / mo | Rp 3,399,000 / mo | **$40 (~Rp636k) / $80 (~Rp1.27M)** | https://vaxaxas.github.io/id/ |
+| **US / CA / AU (`en-US` / `en`)** | $99.99 / CA$139.99 / A$149.99 | $199.99 / CA$279.99 / A$329.99 | **$40 / $80 USD** ($50 / $100) | https://vaxaxas.github.io/en/ · https://vaxaxas.github.io/en/regions/ |
 
-## Dedicated Multi-Region & Multilingual Hubs (109 Canonical URLs)
-- **Homepage Regional Cluster (8 Locales)**: [TW 繁中](https://vaxaxas.github.io/) | [HK 港澳](https://vaxaxas.github.io/hk/) | [CN 简中](https://vaxaxas.github.io/zh-cn/) | [SG/MY 中文](https://vaxaxas.github.io/sg-my/) | [SG/MY EN](https://vaxaxas.github.io/en/sg-my/) | [日本語](https://vaxaxas.github.io/ja/) | [한국어](https://vaxaxas.github.io/ko/) | [Global EN](https://vaxaxas.github.io/en/)
+## Dedicated Multi-Region & Multilingual Hubs (118 Canonical URLs)
+- **Homepage Global Cluster (17 Editions / 52 Hreflang Tags)**: [TW 繁中](https://vaxaxas.github.io/) | [HK 港澳](https://vaxaxas.github.io/hk/) | [CN 简中](https://vaxaxas.github.io/zh-cn/) | [SG/MY 中文](https://vaxaxas.github.io/sg-my/) | [SG/MY EN](https://vaxaxas.github.io/en/sg-my/) | [日本語](https://vaxaxas.github.io/ja/) | [한국어](https://vaxaxas.github.io/ko/) | [India](https://vaxaxas.github.io/in/) | [UK](https://vaxaxas.github.io/uk/) | [Deutsch](https://vaxaxas.github.io/de/) | [Français](https://vaxaxas.github.io/fr/) | [Español](https://vaxaxas.github.io/es/) | [Português](https://vaxaxas.github.io/pt/) | [Tiếng Việt](https://vaxaxas.github.io/vi/) | [ไทย](https://vaxaxas.github.io/th/) | [Indonesia](https://vaxaxas.github.io/id/) | [Global EN](https://vaxaxas.github.io/en/)
 - **Google Ultra Top-Up & Savings Calculator Cluster (5 Locales)**: [繁中](https://vaxaxas.github.io/google-ultra-top-up/) | [简中](https://vaxaxas.github.io/zh-cn/google-ultra-top-up/) | [EN](https://vaxaxas.github.io/en/google-ultra-top-up/) | [日本語](https://vaxaxas.github.io/ja/google-ultra-top-up/) | [한국어](https://vaxaxas.github.io/ko/google-ultra-top-up/)
 - **Global Regions & 12-Currency Converter Directory**: [繁中 Regions](https://vaxaxas.github.io/regions/) | [简中 Regions](https://vaxaxas.github.io/zh-cn/regions/) | [EN Regions](https://vaxaxas.github.io/en/regions/)
 - **Vibe Coding × Google AI Subscription Hub**: [繁中](https://vaxaxas.github.io/vibe-coding/) | [简中](https://vaxaxas.github.io/zh-cn/vibe-coding/) | [EN](https://vaxaxas.github.io/en/vibe-coding/)
